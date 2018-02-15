@@ -8,10 +8,10 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 * **Homeland** 7 ![][Rec]
 * **Altered Carbon** ![][Rec]
 * **Peace Hotel**《和平饭店》 ![][Rec]
-* **Counterpart** ![][Rec]
-* **S.W.A.T.**
-* **Seal Team**
-* **Designated Survivor** 2
+* **Counterpart** (2017) ![][Rec]
+* **S.W.A.T.** (2017)
+* **Seal Team** (2017)
+* **Designated Survivor** 2 (2017)
 
 ## TV Series I have seen
 
@@ -21,7 +21,7 @@ This year (2018): [Feb](#feb-2018) | [Jan](#jan-2018-6)
 
 ### Feb 2018
 * Star Trek: Discovery (2017) ![][s3]
-* Dimension 404 (2017) ![][s3.5]
+* Dimension 404 (2017) ![][s35]
 
 ### Jan 2018 (6)
 * Kite《风筝》 (2017) ![][s4]
