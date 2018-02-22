@@ -20,7 +20,7 @@ This year (2018): [Feb](#feb-2018) | [Jan](#jan-2018-6)
 ### Feb 2018
 * **Altered Carbon** 🇺🇸 ![][NFX] ![][s4]
 * **Peace Hotel**《和平饭店》 🇨🇳 ![][s5]
-* **Star Trek: Discovery** (2017) 🇺🇸 ![][CBS]! [][s3]
+* **Star Trek: Discovery** (2017) 🇺🇸 ![][CBS] ![][s3]
 * **Dimension 404** (2017) 🇺🇸 ![][HUL] ![][s35]
 
 ### Jan 2018 (6)
