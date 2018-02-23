@@ -5,6 +5,7 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 ![][Rec] - recommended TV Series.
 
 ## Watching List
+* **Unnatural** アンナチュラル ![][TBS]
 * **Homeland** 7 🇺🇸 ![][SHO] ![][Rec]
 * **Counterpart** (2017) 🇺🇸 ![][STZ] ![][Rec]
 * **S.W.A.T.** (2017) 🇺🇸 ![][CBS]
@@ -52,3 +53,4 @@ This year (2018): [Feb](#feb-2018) | [Jan](#jan-2018-6)
 [NFX]: https://wt365.github.io/lib/svg/tv/netflix.svg "Netflix"
 [HUL]: https://wt365.github.io/lib/svg/tv/hulu.svg "Hulu"
 [CH4]: https://wt365.github.io/lib/svg/tv/channel4.svg "Channel 4"
+[TBS]: https://wt365.github.io/lib/svg/tv/tbs.svg "TBS"
