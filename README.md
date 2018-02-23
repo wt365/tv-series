@@ -5,7 +5,7 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 ![][Rec] - recommended TV Series.
 
 ## Watching List
-* **Unnatural** アンナチュラル ![][TBS]
+* **Unnatural** 《アンナチュラル》 🇯🇵 ![][TBS]
 * **Homeland** 7 🇺🇸 ![][SHO] ![][Rec]
 * **Counterpart** (2017) 🇺🇸 ![][STZ] ![][Rec]
 * **S.W.A.T.** (2017) 🇺🇸 ![][CBS]
