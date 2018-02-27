@@ -2,7 +2,8 @@
 
 TV series that I am [watching](#watching-list) and that I have [seen](#tv-series-i-have-seen).
 
-![][Rec] - recommended TV Series.
+![][star] - marks my rating.  
+![][Rec] - recommended TV Series (among those I am watching).
 
 ## Watching List
 * **Unnatural** 《アンナチュラル》 ![][JP] ![][TBS]
@@ -35,6 +36,7 @@ This year (2018): [Feb](#feb-2018) | [Jan](#jan-2018-6)
 **[⬆ back to top](#tv-series)**
 
 [Rec]: https://wt365.github.io/lib/svg/rec.svg "Recommended"
+[star]: https://wt365.github.io/lib/svg/star/star.svg "Rating"
 [s0]: https://wt365.github.io/lib/svg/star/s0.svg "O Star"
 [s05]: https://wt365.github.io/lib/svg/star/s05.svg "0.5 Star"
 [s1]: https://wt365.github.io/lib/svg/star/s1.svg "1 Star"
