@@ -2,8 +2,8 @@
 
 TV series that I am [watching](#watching-list) and that I have [seen](#tv-series-i-have-seen).
 
-![][star] - marks my rating.  
-![][Rec] - recommended TV Series (among those I am watching).
+![][star] - marks my rating (for those I have *seen*).  
+![][Rec] - recommended ones (for those I am *watching*).
 
 ## Watching List
 * **Unnatural** 《アンナチュラル》 ![][JP] ![][TBS]
