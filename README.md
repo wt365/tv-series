@@ -6,7 +6,7 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 ![][Rec] - recommended ones (for those I am **watching**).
 
 ## Watching List
-* **The Company** (2007) ![][US]
+* **The Company** (2007) ![][US] ![][TNT]
 * **Unnatural** 《アンナチュラル》 ![][JP] ![][TBS]
 * **Homeland** 7 ![][US] ![][SHO] ![][Rec]
 * **Counterpart** (2017) ![][US] ![][STZ] ![][Rec]
@@ -57,6 +57,7 @@ This year (2018): [Feb](#feb-2018) | [Jan](#jan-2018-6)
 [HUL]: https://wt365.github.io/lib/svg/tv/hulu.svg "Hulu"
 [CH4]: https://wt365.github.io/lib/svg/tv/channel4.svg "Channel 4"
 [TBS]: https://wt365.github.io/lib/svg/tv/tbs.svg "TBS"
+[TNT]: https://wt365.github.io/lib/svg/tv/tnt.svg "TNT"
 [CN]: https://wt365.github.io/lib/svg/flag/cn.svg "China"
 [US]: https://wt365.github.io/lib/svg/flag/us.svg "USA"
 [UK]: https://wt365.github.io/lib/svg/flag/uk.svg "UK"
