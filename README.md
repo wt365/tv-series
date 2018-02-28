@@ -52,7 +52,7 @@ This year (2018): [Feb](#feb-2018) | [Jan](#jan-2018-6)
 [SHO]: https://wt365.github.io/lib/svg/tv/sho.svg "Showtime"
 [STZ]: https://wt365.github.io/lib/svg/tv/starz.svg "STARZ"
 [CBS]: https://wt365.github.io/lib/svg/tv/cbs.svg "CBS"
-[ABC]: https://wt365.github.io/lib/svg/tv/cbs.svg "ABC"
+[ABC]: https://wt365.github.io/lib/svg/tv/abc.svg "ABC"
 [NFX]: https://wt365.github.io/lib/svg/tv/netflix.svg "Netflix"
 [HUL]: https://wt365.github.io/lib/svg/tv/hulu.svg "Hulu"
 [CH4]: https://wt365.github.io/lib/svg/tv/channel4.svg "Channel 4"
