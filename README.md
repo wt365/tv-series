@@ -6,7 +6,6 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 ![][Rec] - recommended ones (for those I am **watching**).
 
 ## Watching List
-* **The Company** (2007) ![][US] ![][TNT]
 * **Unnatural** 《アンナチュラル》 ![][JP] ![][TBS]
 * **Homeland** 7 ![][US] ![][SHO] ![][Rec]
 * **Counterpart** (2017) ![][US] ![][STZ] ![][Rec]
@@ -16,11 +15,14 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 
 ## TV Series I have seen
 
-This year (2018): [Feb](#feb-2018) | [Jan](#jan-2018-6)
+This year (2018): [March](#march-2018) | [Feb](#feb-2018-4) | [Jan](#jan-2018-6)
 
 ## 2018
 
-### Feb 2018
+### March 2018
+* **The Company** (2007) ![][US] ![][TNT] ![][s4]
+
+### Feb 2018 (4)
 * **Altered Carbon** ![][US] ![][NFX] ![][s4]
 * **Peace Hotel**《和平饭店》 ![][CN] ![][s5]
 * **Star Trek: Discovery** (2017) ![][US] ![][CBS] ![][s3]
