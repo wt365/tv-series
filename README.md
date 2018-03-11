@@ -7,7 +7,7 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 
 ## Watching List
 * **The Looming Tower** ![][US] ![][HUL]
-* **Unnatural** 《アンナチュラル》 ![][JP] ![][TBS]
+* **Unnatural** 《アンナチュラル》 ![][JP] ![][TBS] ![][Rec]
 * **Homeland** 7 ![][US] ![][SHO] ![][Rec]
 * **Counterpart** (2017) ![][US] ![][STZ] ![][Rec]
 * **S.W.A.T.** (2017) ![][US] ![][CBS]
