@@ -6,6 +6,7 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 ![][Rec] - recommended ones (for those I am **watching**).
 
 ## Watching List
+* ** Jessica Jones** 2 ![][US] ![][NFX]
 * **The Looming Tower** ![][US] ![][HUL]
 * **Unnatural** 《アンナチュラル》 ![][JP] ![][TBS] ![][Rec]
 * **Homeland** 7 ![][US] ![][SHO] ![][Rec]
