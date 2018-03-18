@@ -8,7 +8,6 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 ## Watching List
 * **Jessica Jones** 2 ![][US] ![][NFX]
 * **The Looming Tower** ![][US] ![][HUL]
-* **Unnatural** 《アンナチュラル》 ![][JP] ![][TBS] ![][Rec]
 * **Homeland** 7 ![][US] ![][SHO] ![][Rec]
 * **Counterpart** (2017) ![][US] ![][STZ] ![][Rec]
 * **S.W.A.T.** (2017) ![][US] ![][CBS]
@@ -22,6 +21,7 @@ Index: [March](#march-2018) | [Feb](#feb-2018-4) | [Jan](#jan-2018-6)
 ## 2018
 
 ### March 2018
+* **Unnatural** 《アンナチュラル》 ![][JP] ![][TBS] ![][s5]
 * **The Company** (2007) ![][US] ![][TNT] ![][s4]
 
 ### Feb 2018 (4)
