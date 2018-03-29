@@ -6,7 +6,7 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 ![][Rec] - recommended ones (for those I am **watching**).
 
 ## Watching List
-* **Silicon Valley** 5 ![][US] ![][HBO]
+* **Silicon Valley** 5 ![][US] ![][HBO] ![][Rec]
 * **Billions** 3 ![][US] ![SHO] ![][Rec]
 * **Jessica Jones** 2 ![][US] ![][NFX]
 * **The Looming Tower** ![][US] ![][HUL]
@@ -64,7 +64,8 @@ Index: [March](#march-2018) | [Feb](#feb-2018-4) | [Jan](#jan-2018-6)
 [CH4]: https://wt365.github.io/lib/svg/tv/channel4.svg "Channel 4"
 [TBS]: https://wt365.github.io/lib/svg/tv/tbs.svg "TBS"
 [TNT]: https://wt365.github.io/lib/svg/tv/tnt.svg "TNT"
-[HBO]: https://wt365.github.io/lib/svg/tv/hbo.svg "TNT"
+[HBO]: https://wt365.github.io/lib/svg/tv/hbo.svg "HBO"
+[AMC]: https://wt365.github.io/lib/svg/tv/amc.svg "AMC"
 [CN]: https://wt365.github.io/lib/svg/flag/cn.svg "China"
 [US]: https://wt365.github.io/lib/svg/flag/us.svg "USA"
 [UK]: https://wt365.github.io/lib/svg/flag/uk.svg "UK"
