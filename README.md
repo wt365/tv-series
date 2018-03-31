@@ -19,11 +19,11 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 
 ## TV Series I have seen
 
-Index: [March](#march-2018) | [Feb](#feb-2018-4) | [Jan](#jan-2018-6)
+Index: [March](#march-2018-2) | [Feb](#feb-2018-4) | [Jan](#jan-2018-6)
 
 ## 2018
 
-### March 2018
+### March 2018 (2)
 * **Unnatural** 《アンナチュラル》 ![][JP] ![][TBS] ![][s5]
 * **The Company** (2007) ![][US] ![][TNT] ![][s4]
 
