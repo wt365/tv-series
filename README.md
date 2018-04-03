@@ -12,16 +12,18 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 * **Jessica Jones** 2 ![][US] ![][NFX]
 * **The Looming Tower** ![][US] ![][HUL]
 * **Homeland** 7 ![][US] ![][SHO] ![][Rec]
-* **Counterpart** (2017) ![][US] ![][STZ] ![][Rec]
 * **S.W.A.T.** (2017) ![][US] ![][CBS]
 * **Seal Team** (2017) ![][US] ![][CBS]
 * **Designated Survivor** 2 (2017) ![][US] ![][ABC]
 
 ## TV Series I have seen
 
-Index: [March](#march-2018-2) | [Feb](#feb-2018-4) | [Jan](#jan-2018-6)
+Index: [April](#april-2018) | [March](#march-2018-2) | [Feb](#feb-2018-4) | [Jan](#jan-2018-6)
 
 ## 2018
+
+### April 2018
+* **Counterpart** (2017) ![][US] ![][STZ] ![][s4]
 
 ### March 2018 (2)
 * **Unnatural** 《アンナチュラル》 ![][JP] ![][TBS] ![][s5]
