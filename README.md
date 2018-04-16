@@ -9,7 +9,6 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 * **The Terror** ![][US] ![][AMC]
 * **Silicon Valley** 5 ![][US] ![][HBO] ![][Rec]
 * **Billions** 3 ![][US] ![SHO] ![][Rec]
-* **Jessica Jones** 2 ![][US] ![][NFX]
 * **The Looming Tower** ![][US] ![][HUL]
 * **Homeland** 7 ![][US] ![][SHO] ![][Rec]
 * **S.W.A.T.** (2017) ![][US] ![][CBS]
@@ -23,6 +22,7 @@ Index: [April](#april-2018) | [March](#march-2018-2) | [Feb](#feb-2018-4) | [Jan
 ## 2018
 
 ### April 2018
+* **Jessica Jones** 2 ![][US] ![][NFX] ![][s4]
 * **Counterpart** (2017) ![][US] ![][STZ] ![][s4]
 
 ### March 2018 (2)
@@ -69,6 +69,7 @@ Index: [April](#april-2018) | [March](#march-2018-2) | [Feb](#feb-2018-4) | [Jan
 [TNT]: https://wt365.github.io/lib/svg/tv/tnt.svg "TNT"
 [HBO]: https://wt365.github.io/lib/svg/tv/hbo.svg "HBO"
 [AMC]: https://wt365.github.io/lib/svg/tv/amc.svg "AMC"
+[SFY]: https://wt365.github.io/lib/svg/tv/syfy.svg "SYFY"
 [CN]: https://wt365.github.io/lib/svg/flag/cn.svg "China"
 [US]: https://wt365.github.io/lib/svg/flag/us.svg "USA"
 [UK]: https://wt365.github.io/lib/svg/flag/uk.svg "UK"
