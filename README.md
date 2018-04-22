@@ -6,12 +6,10 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 ![][Rec] - recommended ones (for those I am **watching**).
 
 ## Watching List
-* **Lost in Space** ![][US] ![][NFX]
 * **The Expanse** 3 ![][US] ![][SFY]
 * **The Terror** ![][US] ![][AMC]
 * **Silicon Valley** 5 ![][US] ![][HBO] ![][Rec]
 * **Billions** 3 ![][US] ![SHO] ![][Rec]
-* **The Looming Tower** ![][US] ![][HUL]
 * **Homeland** 7 ![][US] ![][SHO] ![][Rec]
 * **S.W.A.T.** (2017) ![][US] ![][CBS]
 * **Seal Team** (2017) ![][US] ![][CBS]
@@ -24,6 +22,8 @@ Index: [April](#april-2018) | [March](#march-2018-2) | [Feb](#feb-2018-4) | [Jan
 ## 2018
 
 ### April 2018
+* **Lost in Space** ![][US] ![][NFX] ![][s4]
+* **The Looming Tower** ![][US] ![][HUL] ![][s4]
 * **Jessica Jones** 2 ![][US] ![][NFX] ![][s4]
 * **Counterpart** (2017) ![][US] ![][STZ] ![][s4]
 
