@@ -8,7 +8,6 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 ## Watching List
 * **Westworld** 2 ![][US] ![][HBO] ![][Rec]
 * **The Expanse** 3 ![][US] ![][SFY]
-* **The Terror** ![][US] ![][AMC]
 * **Silicon Valley** 5 ![][US] ![][HBO] ![][Rec]
 * **Billions** 3 ![][US] ![SHO] ![][Rec]
 * **Homeland** 7 ![][US] ![][SHO] ![][Rec]
@@ -23,6 +22,7 @@ Index: [April](#april-2018) | [March](#march-2018-2) | [Feb](#feb-2018-4) | [Jan
 ## 2018
 
 ### April 2018
+* **The Terror** ![][US] ![][AMC] ![][s35]
 * **Lost in Space** ![][US] ![][NFX] ![][s4]
 * **The Looming Tower** ![][US] ![][HUL] ![][s4]
 * **Jessica Jones** 2 ![][US] ![][NFX] ![][s4]
