@@ -10,18 +10,18 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 * **The Expanse** 3 ![][US] ![][SFY]
 * **Silicon Valley** 5 ![][US] ![][HBO] ![][Rec]
 * **Billions** 3 ![][US] ![SHO] ![][Rec]
-* **Homeland** 7 ![][US] ![][SHO] ![][Rec]
 * **S.W.A.T.** (2017) ![][US] ![][CBS]
 * **Seal Team** (2017) ![][US] ![][CBS]
 * **Designated Survivor** 2 (2017) ![][US] ![][ABC]
 
 ## TV Series I have seen
 
-Index: [April](#april-2018) | [March](#march-2018-2) | [Feb](#feb-2018-4) | [Jan](#jan-2018-6)
+Index: [April](#april-2018-6) | [March](#march-2018-2) | [Feb](#feb-2018-4) | [Jan](#jan-2018-6)
 
 ## 2018
 
-### April 2018
+### April 2018 (6)
+* **Homeland** 7 ![][US] ![][SHO] ![][s45]
 * **The Terror** ![][US] ![][AMC] ![][s35]
 * **Lost in Space** ![][US] ![][NFX] ![][s4]
 * **The Looming Tower** ![][US] ![][HUL] ![][s4]
