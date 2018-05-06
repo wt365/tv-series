@@ -6,6 +6,8 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 ![][Rec] - recommended ones (for those I am **watching**).
 
 ## Watching List
+* **Quantico** 3 ![][US] ![][ABC]
+* **The Handmaid's Tale** ![][US] ![][HUL]
 * **Westworld** 2 ![][US] ![][HBO] ![][Rec]
 * **The Expanse** 3 ![][US] ![][SFY]
 * **Silicon Valley** 5 ![][US] ![][HBO] ![][Rec]
