@@ -6,6 +6,7 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 ![][Rec] - recommended ones (for those I am **watching**).
 
 ## Watching List
+* **The Rain** ![][DK] ![][NFX]
 * **Quantico** 3 ![][US] ![][ABC]
 * **The Handmaid's Tale** ![][US] ![][HUL]
 * **Westworld** 2 ![][US] ![][HBO] ![][Rec]
@@ -79,3 +80,4 @@ Index: [April](#april-2018-6) | [March](#march-2018-2) | [Feb](#feb-2018-4) | [J
 [US]: https://wt365.github.io/lib/svg/flag/us.svg "USA"
 [UK]: https://wt365.github.io/lib/svg/flag/uk.svg "UK"
 [JP]: https://wt365.github.io/lib/svg/flag/jp.svg "Japan"
+[DK]: https://wt365.github.io/lib/svg/flag/dk.svg "Denmark"
