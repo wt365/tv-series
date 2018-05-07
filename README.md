@@ -8,7 +8,7 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 ## Watching List
 * **The Rain** ![][DK] ![][NFX]
 * **Quantico** 3 ![][US] ![][ABC]
-* **The Handmaid's Tale** ![][US] ![][HUL]
+* **The Handmaid's Tale** 2 ![][US] ![][HUL]
 * **Westworld** 2 ![][US] ![][HBO] ![][Rec]
 * **The Expanse** 3 ![][US] ![][SFY]
 * **Silicon Valley** 5 ![][US] ![][HBO] ![][Rec]
