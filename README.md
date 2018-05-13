@@ -6,7 +6,6 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 ![][Rec] - recommended ones (for those I am **watching**).
 
 ## Watching List
-* **The Rain** ![][DK] ![][NFX]
 * **Quantico** 3 ![][US] ![][ABC]
 * **The Handmaid's Tale** 2 ![][US] ![][HUL]
 * **Westworld** 2 ![][US] ![][HBO] ![][Rec]
@@ -19,9 +18,12 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 
 ## TV Series I have seen
 
-Index: [April](#april-2018-6) | [March](#march-2018-2) | [Feb](#feb-2018-4) | [Jan](#jan-2018-6)
+Index: [May](#may-2018) | [April](#april-2018-6) | [March](#march-2018-2) | [Feb](#feb-2018-4) | [Jan](#jan-2018-6)
 
 ## 2018
+
+### May 2018
+* **The Rain** ![][DK] ![][NFX] ![s35]
 
 ### April 2018 (6)
 * **Homeland** 7 ![][US] ![][SHO] ![][s45]
