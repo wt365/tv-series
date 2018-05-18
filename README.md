@@ -13,7 +13,7 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 * **Silicon Valley** 5 ![][US] ![][HBO] ![][Rec]
 * **Billions** 3 ![][US] ![SHO] ![][Rec]
 * **S.W.A.T.** (2017) ![][US] ![][CBS]
-* **Seal Team** (2017) ![][US] ![][CBS]
+
 * **Designated Survivor** 2 (2017) ![][US] ![][ABC]
 
 ## TV Series I have seen
@@ -23,7 +23,8 @@ Index: [May](#may-2018) | [April](#april-2018-6) | [March](#march-2018-2) | [Feb
 ## 2018
 
 ### May 2018
-* **The Rain** ![][DK] ![][NFX] ![s35]
+* **Seal Team** (2017) ![][US] ![][CBS] ![][s35]
+* **The Rain** ![][DK] ![][NFX] ![s4]
 
 ### April 2018 (6)
 * **Homeland** 7 ![][US] ![][SHO] ![][s45]
