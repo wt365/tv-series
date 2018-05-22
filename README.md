@@ -10,7 +10,6 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 * **The Handmaid's Tale** 2 ![][US] ![][HUL]
 * **Westworld** 2 ![][US] ![][HBO] ![][Rec]
 * **The Expanse** 3 ![][US] ![][SFY]
-* **Silicon Valley** 5 ![][US] ![][HBO] ![][Rec]
 * **Billions** 3 ![][US] ![SHO] ![][Rec]
 * **S.W.A.T.** (2017) ![][US] ![][CBS]
 
@@ -22,6 +21,7 @@ Index: [May](#may-2018) | [April](#april-2018-6) | [March](#march-2018-2) | [Feb
 
 ### May 2018
 * **Designated Survivor** 2 (2017) ![][US] ![][ABC] ![][s3]
+* **Silicon Valley** 5 ![][US] ![][HBO] ![][s45]
 * **Seal Team** (2017) ![][US] ![][CBS] ![][s35]
 * **The Rain** ![][DK] ![][NFX] ![s4]
 
