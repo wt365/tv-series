@@ -11,15 +11,18 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 * **Westworld** 2 ![][US] ![][HBO] ![][Rec]
 * **The Expanse** 3 ![][US] ![][SFY]
 * **Billions** 3 ![][US] ![SHO] ![][Rec]
-* **S.W.A.T.** (2017) ![][US] ![][CBS]
+
 
 ## TV Series I have seen
 
-Index: [May](#may-2018) | [April](#april-2018-6) | [March](#march-2018-2) | [Feb](#feb-2018-4) | [Jan](#jan-2018-6)
+Index: [June](#june-2018) | [May](#may-2018-4) | [April](#april-2018-6) | [March](#march-2018-2) | [Feb](#feb-2018-4) | [Jan](#jan-2018-6)
 
 ## 2018
 
-### May 2018
+### June 2018
+* **S.W.A.T.** (2017) ![][US] ![][CBS] ![][s35]
+
+### May 2018 (4)
 * **Designated Survivor** 2 (2017) ![][US] ![][ABC] ![][s3]
 * **Silicon Valley** 5 ![][US] ![][HBO] ![][s45]
 * **Seal Team** (2017) ![][US] ![][CBS] ![][s35]
