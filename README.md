@@ -8,15 +8,15 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 ## Watching List
 * **Quantico** 3 ![][US] ![][ABC]
 * **The Handmaid's Tale** 2 ![][US] ![][HUL]
-* **The Expanse** 3 ![][US] ![][SFY]
 
 ## TV Series I have seen
 
-Index: [June](#june-2018) | [May](#may-2018-4) | [April](#april-2018-6) | [March](#march-2018-2) | [Feb](#feb-2018-4) | [Jan](#jan-2018-6)
+Index: [June](#june-2018-4) | [May](#may-2018-4) | [April](#april-2018-6) | [March](#march-2018-2) | [Feb](#feb-2018-4) | [Jan](#jan-2018-6)
 
 ## 2018
 
-### June 2018
+### June 2018 (4)
+* **The Expanse** 3 ![][US] ![][SFY] ![][s4]
 * **Westworld** 2 ![][US] ![][HBO] ![][s5]
 * **Billions** 3 ![][US] ![SHO] ![][s5]
 * **S.W.A.T.** (2017) ![][US] ![][CBS] ![][s35]
