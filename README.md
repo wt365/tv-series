@@ -6,14 +6,18 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 ![][Rec] - recommended ones (for those I am **watching**).
 
 ## Watching List
+* **Sea of Sand**《沙海》![][CN]
+* **Castle Rock** ![][US] ![][HUL]
 * **Quantico** 3 ![][US] ![][ABC]
-* **The Handmaid's Tale** 2 ![][US] ![][HUL]
 
 ## TV Series I have seen
 
-Index: [June](#june-2018-4) | [May](#may-2018-4) | [April](#april-2018-6) | [March](#march-2018-2) | [Feb](#feb-2018-4) | [Jan](#jan-2018-6)
+Index: [July](#july-2018-1) | [June](#june-2018-4) | [May](#may-2018-4) | [April](#april-2018-6) | [March](#march-2018-2) | [Feb](#feb-2018-4) | [Jan](#jan-2018-6)
 
 ## 2018
+
+### July 2018 (1)
+* **The Handmaid's Tale** 2 ![][US] ![][HUL]
 
 ### June 2018 (4)
 * **The Expanse** 3 ![][US] ![][SFY] ![][s4]
