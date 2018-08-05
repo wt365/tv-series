@@ -6,15 +6,18 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 ![][Rec] - recommended ones (for those I am **watching**).
 
 ## Watching List
+* **Deep State** ![][UK] ![][FOX]
 * **Sea of Sand**《沙海》![][CN]
 * **Castle Rock** ![][US] ![][HUL]
-* **Quantico** 3 ![][US] ![][ABC]
 
 ## TV Series I have seen
 
 Index: [July](#july-2018-1) | [June](#june-2018-4) | [May](#may-2018-4) | [April](#april-2018-6) | [March](#march-2018-2) | [Feb](#feb-2018-4) | [Jan](#jan-2018-6)
 
 ## 2018
+
+### August 2018
+* **Quantico** 3 ![][US] ![][ABC] ![][s35]
 
 ### July 2018 (1)
 * **The Handmaid's Tale** 2 ![][US] ![][HUL]
@@ -84,6 +87,7 @@ Index: [July](#july-2018-1) | [June](#june-2018-4) | [May](#may-2018-4) | [April
 [HBO]: https://wt365.github.io/lib/svg/tv/hbo.svg "HBO"
 [AMC]: https://wt365.github.io/lib/svg/tv/amc.svg "AMC"
 [SFY]: https://wt365.github.io/lib/svg/tv/syfy.svg "SYFY"
+[FOX]: https://wt365.github.io/lib/svg/tv/fox.svg "FOX"
 [CN]: https://wt365.github.io/lib/svg/flag/cn.svg "China"
 [US]: https://wt365.github.io/lib/svg/flag/us.svg "USA"
 [UK]: https://wt365.github.io/lib/svg/flag/uk.svg "UK"
