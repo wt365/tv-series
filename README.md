@@ -21,7 +21,7 @@ Index: [Aug](#aug-2018) | [July](#july-2018-1) | [June](#june-2018-4) | [May](#m
 * **Quantico** 3 ![][US] ![][ABC] ![][s35]
 
 ### July 2018 (1)
-* **The Handmaid's Tale** 2 ![][US] ![][HUL]
+* **The Handmaid's Tale** 2 ![][US] ![][HUL] ![][s35]
 
 ### June 2018 (4)
 * **The Expanse** 3 ![][US] ![][SFY] ![][s4]
