@@ -7,7 +7,7 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 
 ## Watching List
 * **Jack Ryan** ![][US] ![][AMZ]
-* **Sea of Sand**《沙海》![][CN]
+* **Sea of Sand**《沙海》![][CN] ![][TCV]
 * **Castle Rock** ![][US] ![][HUL]
 
 ## TV Series I have seen
@@ -94,6 +94,7 @@ Index: [Sept](#sept-2018) | [Aug](#aug-2018-3) | [July](#july-2018-1) | [June](#
 [SFY]: https://wt365.github.io/lib/svg/tv/syfy.svg "SYFY"
 [FOX]: https://wt365.github.io/lib/svg/tv/fox.svg "FOX"
 [AMZ]: https://wt365.github.io/lib/svg/tv/prime.svg "Amazon Prime"
+[TCV]: https://wt365.github.io/lib/svg/tv/tencent.svg "Tencent Video"
 [CN]: https://wt365.github.io/lib/svg/flag/cn.svg "China"
 [US]: https://wt365.github.io/lib/svg/flag/us.svg "USA"
 [UK]: https://wt365.github.io/lib/svg/flag/uk.svg "UK"
