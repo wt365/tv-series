@@ -12,7 +12,7 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 
 ## TV Series I have seen
 
-Index: [Aug](#aug-2018-3) | [July](#july-2018-1) | [June](#june-2018-4) | [May](#may-2018-4) | [April](#april-2018-6) | [March](#march-2018-2) | [Feb](#feb-2018-4) | [Jan](#jan-2018-6)
+Index: [Sept](#sept-2018) | [Aug](#aug-2018-3) | [July](#july-2018-1) | [June](#june-2018-4) | [May](#may-2018-4) | [April](#april-2018-6) | [March](#march-2018-2) | [Feb](#feb-2018-4) | [Jan](#jan-2018-6)
 
 ## 2018
 
