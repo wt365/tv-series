@@ -8,7 +8,6 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 ## Watching List
 * **Jack Ryan** ![][US] ![][AMZ]
 * **Sea of Sand**《沙海》![][CN] ![][VQQ]
-* **Castle Rock** ![][US] ![][HUL]
 
 ## TV Series I have seen
 
@@ -17,6 +16,7 @@ Index: [Sept](#sept-2018) | [Aug](#aug-2018-3) | [July](#july-2018-1) | [June](#
 ## 2018
 
 ### Sept 2018
+* **Castle Rock** ![][US] ![][HUL] ![][s35]
 * **The Innocents** ![][UK] ![][NFX] ![][s35]
 
 ### Aug 2018 (3)
