@@ -14,7 +14,7 @@ Index: [Oct](#oct-2018) | [Sept](#sept-2018-4) | [Aug](#aug-2018-3) | [July](#ju
 
 ## 2018
 
-## Oct 2018
+### Oct 2018
 * **Ozark** 2 ![][US] ![][NFX] ![][s45]
 
 ### Sept 2018 (4)
