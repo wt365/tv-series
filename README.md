@@ -6,9 +6,9 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 ![][Rec] - recommended ones (for those I am **watching**).
 
 ## Watching List
+* **Seal Team** 2 ![][US] ![][CBS]
 * **FBI** ![][US] ![][CBS]
 * **The Last Ship** 5 ![][US] ![][TNT]
-* **Seal Team** 2 ![][US] ![][CBS]
 
 ## TV Series I have seen
 
