@@ -9,13 +9,15 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 * **Startup** 3 ![][US] _(Sony Crackle)_
 * **Seal Team** 2 ![][US] ![][CBS]
 * **FBI** ![][US] ![][CBS]
-* **The Last Ship** 5 ![][US] ![][TNT]
 
 ## TV Series I have seen
 
-Index: [Oct](#oct-2018-1) | [Sept](#sept-2018-4) | [Aug](#aug-2018-3) | [July](#july-2018-1) | [June](#june-2018-4) | [May](#may-2018-4) | [April](#april-2018-6) | [March](#march-2018-2) | [Feb](#feb-2018-4) | [Jan](#jan-2018-6)
+Index: [Nov](#nov-2018) | [Oct](#oct-2018-1) | [Sept](#sept-2018-4) | [Aug](#aug-2018-3) | [July](#july-2018-1) | [June](#june-2018-4) | [May](#may-2018-4) | [April](#april-2018-6) | [March](#march-2018-2) | [Feb](#feb-2018-4) | [Jan](#jan-2018-6)
 
 ## 2018
+
+### Nov 2018
+* **The Last Ship** 5 ![][US] ![][TNT] ![][s35]
 
 ### Oct 2018 (1)
 * **Ozark** 2 ![][US] ![][NFX] ![][s45]
