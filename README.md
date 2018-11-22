@@ -7,7 +7,6 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 
 ## Watching List
 * **Narcos: Mexico** ![][US] ![][NFX]
-* **Startup** 3 ![][US] _(Sony Crackle)_
 * **Seal Team** 2 ![][US] ![][CBS]
 * **FBI** ![][US] ![][CBS]
 
@@ -18,6 +17,7 @@ Index: [Nov](#nov-2018) | [Oct](#oct-2018-1) | [Sept](#sept-2018-4) | [Aug](#aug
 ## 2018
 
 ### Nov 2018
+* **Startup** 3 ![][US] _(Sony Crackle)_ ![][s4]
 * **The Last Ship** 5 ![][US] ![][TNT] ![][s35]
 
 ### Oct 2018 (1)
