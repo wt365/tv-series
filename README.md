@@ -6,6 +6,7 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 ![][Rec] - recommended ones (for those I am **watching**).
 
 ## Watching List
+* **The Little Drummer Girl** ![][UK] ![][BBC]
 * **Narcos: Mexico** ![][US] ![][NFX]
 * **Seal Team** 2 ![][US] ![][CBS]
 * **FBI** ![][US] ![][CBS]
@@ -105,6 +106,7 @@ Index: [Nov](#nov-2018) | [Oct](#oct-2018-1) | [Sept](#sept-2018-4) | [Aug](#aug
 [FOX]: https://wt365.github.io/lib/svg/tv/fox.svg "FOX"
 [AMZ]: https://wt365.github.io/lib/svg/tv/prime.svg "Amazon Prime"
 [VQQ]: https://wt365.github.io/lib/svg/tv/tencent.svg "Tencent Video"
+[BBC]: https://wt365.github.io/lib/svg/tv/bbc.svg "BBC"
 [CN]: https://wt365.github.io/lib/svg/flag/cn.svg "China"
 [US]: https://wt365.github.io/lib/svg/flag/us.svg "USA"
 [UK]: https://wt365.github.io/lib/svg/flag/uk.svg "UK"
