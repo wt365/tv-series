@@ -6,9 +6,7 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 ![][Rec] - recommended ones (for those I am **watching**).
 
 ## Watching List
-<!-- * **The First** ![][US] ![][HUL] -->
-* **Mars** (2016) ![][US] ![][NGG]
-* **Narcos: Mexico** ![][US] ![][NFX]
+* **The First** ![][US] ![][HUL]
 * **Seal Team** 2 ![][US] ![][CBS]
 * **FBI** ![][US] ![][CBS]
 
@@ -17,6 +15,10 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 Index: [Nov](#nov-2018-3) | [Oct](#oct-2018-1) | [Sept](#sept-2018-4) | [Aug](#aug-2018-3) | [July](#july-2018-1) | [June](#june-2018-4) | [May](#may-2018-4) | [April](#april-2018-6) | [March](#march-2018-2) | [Feb](#feb-2018-4) | [Jan](#jan-2018-6)
 
 ## 2018
+
+### Dec 2018
+* **Narcos: Mexico** ![][US] ![][NFX] ![][s4]
+* **Mars** (2016) ![][US] ![][NGG] ![][s45]
 
 ### Nov 2018 (3)
 * **The Little Drummer Girl** ![][UK] ![][BBC] ![][s35]
