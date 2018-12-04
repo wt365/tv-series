@@ -6,7 +6,6 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 ![][Rec] - recommended ones (for those I am **watching**).
 
 ## Watching List
-* **The First** ![][US] ![][HUL]
 * **Seal Team** 2 ![][US] ![][CBS]
 * **FBI** ![][US] ![][CBS]
 
@@ -17,6 +16,7 @@ Index: [Dec](#dec-2018) | [Nov](#nov-2018-3) | [Oct](#oct-2018-1) | [Sept](#sept
 ## 2018
 
 ### Dec 2018
+* **The First** ![][US] ![][HUL] ![][s4]
 * **Narcos: Mexico** ![][US] ![][NFX] ![][s4]
 * **Mars** (2016) ![][US] ![][NGG] ![][s45]
 
