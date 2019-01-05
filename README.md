@@ -47,7 +47,7 @@ Index: [Dec](#dec-2018-3) | [Nov](#nov-2018-3) | [Oct](#oct-2018-1) | [Sept](#se
 ### June 2018 (4)
 * **The Expanse** 3 ![][US] ![][SFY] ![][s4]
 * **Westworld** 2 ![][US] ![][HBO] ![][s5]
-* **Billions** 3 ![][US] ![SHO] ![][s5]
+* **Billions** 3 ![][US] ![][SHO] ![][s5]
 * **S.W.A.T.** (2017) ![][US] ![][CBS] ![][s35]
 
 ### May 2018 (4)
