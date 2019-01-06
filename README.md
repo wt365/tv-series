@@ -6,14 +6,21 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 ![][Rec] - recommended ones (for those I am **watching**).
 
 ## Watching List
-* **Origin** ![][US] ![][YTB]
 * **Counterpart** 2 ![][US] ![][STZ]
 * **Seal Team** 2 ![][US] ![][CBS]
 * **FBI** ![][US] ![][CBS]
 
 ## TV Series I have seen
 
-Index: [Dec](#dec-2018-3) | [Nov](#nov-2018-3) | [Oct](#oct-2018-1) | [Sept](#sept-2018-4) | [Aug](#aug-2018-3) | [July](#july-2018-1) | [June](#june-2018-4) | [May](#may-2018-4) | [April](#april-2018-6) | [March](#march-2018-2) | [Feb](#feb-2018-4) | [Jan](#jan-2018-6)
+### Index: 
+2019: [Jan](#jan-2019)
+
+Previous: [2018](#2018)
+
+## 2019
+
+### Jan 2019
+* **Origin** ![][US] ![][YTB] ![][s35]
 
 ## 2018
 
