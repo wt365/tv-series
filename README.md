@@ -9,7 +9,6 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 * **Mars** 2 ![][US] ![][NGG]
 * **Counterpart** 2 ![][US] ![][STZ]
 * **Seal Team** 2 ![][US] ![][CBS]
-* **FBI** ![][US] ![][CBS]
 
 ## TV Series I have seen
 
@@ -22,6 +21,7 @@ Previous: [2018](#2018)
 
 ### Jan 2019
 * **Origin** ![][US] ![][YTB] ![][s35]
+* **FBI** ![][US] ![][CBS] ![][s3]
 
 ## 2018
 
