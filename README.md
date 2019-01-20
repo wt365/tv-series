@@ -6,6 +6,7 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 ![][Rec] - recommended ones (for those I am **watching**).
 
 ## Watching List
+* **The Passage** ![][US] ![][FOX]
 * **Mars** 2 ![][US] ![][NGG]
 * **Counterpart** 2 ![][US] ![][STZ]
 * **Seal Team** 2 ![][US] ![][CBS]
@@ -15,7 +16,7 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 ### Index: 
 2019: [Jan](#jan-2019)
 
-Previous: [2018](#2018)
+Previous: [2018](#2018-41)
 
 ## 2019
 
@@ -23,7 +24,7 @@ Previous: [2018](#2018)
 * **Origin** ![][US] ![][YTB] ![][s35]
 * **FBI** ![][US] ![][CBS] ![][s3]
 
-## 2018
+## 2018 (41)
 
 ### Dec 2018 (3)
 * **The First** ![][US] ![][HUL] ![][s4]
