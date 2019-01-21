@@ -34,7 +34,7 @@ Previous: [2018](#2018-41)
 
 ### Nov 2018 (3)
 * **The Little Drummer Girl** ![][UK] ![][BBC] ![][s35]
-* **Startup** 3 ![][US] _(Sony Crackle)_ ![][s4]
+* **Startup** 3 ![][US] ![][SCK] ![][s4]
 * **The Last Ship** 5 ![][US] ![][TNT] ![][s35]
 
 ### Oct 2018 (1)
@@ -125,6 +125,7 @@ Previous: [2018](#2018-41)
 [BBC]: https://wt365.github.io/lib/svg/tv/bbc.svg "BBC"
 [NGG]: https://wt365.github.io/lib/svg/tv/natgeo.svg "National Geographic"
 [YTB]: https://wt365.github.io/lib/svg/tv/youtube.svg "YouTube Original"
+[SCK]: https://wt365.github.io/lib/svg/tv/crackle.svg "Sony Crackle"
 [CN]: https://wt365.github.io/lib/svg/flag/cn.svg "China"
 [US]: https://wt365.github.io/lib/svg/flag/us.svg "USA"
 [UK]: https://wt365.github.io/lib/svg/flag/uk.svg "UK"
