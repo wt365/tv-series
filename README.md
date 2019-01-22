@@ -8,7 +8,6 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 ## Watching List
 * **True Detective** 3 ![][US] ![][HBO]
 * **The Passage** ![][US] ![][FOX]
-* **Mars** 2 (2018) ![][US] ![][NGG]
 * **Counterpart** 2 (2018) ![][US] ![][STZ]
 * **Seal Team** 2 (2018) ![][US] ![][CBS]
 
@@ -22,6 +21,7 @@ Previous: [2018](#2018-41)
 ## 2019
 
 ### Jan 2019
+* **Mars** 2 (2018) ![][US] ![][NGG] ![][s45]
 * **FBI** (2018) ![][US] ![][CBS] ![][s3]
 * **Origin** (2018) ![][US] ![][YTB] ![][s35]
 
