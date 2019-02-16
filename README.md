@@ -49,7 +49,7 @@ Previous: [2018](#2018-41)
 * **The Innocents** ![][UK] ![][NFX] ![][s35]
 
 ### Aug 2018 (3)
-* **Condor** ![][US] _(Audience Network)_ ![][s4]
+* **Condor** ![][US] ![][ADC] ![][s4]
 * **Deep State** ![][UK] ![][FOX] ![][s4]
 * **Quantico** 3 ![][US] ![][ABC] ![][s35]
 
@@ -128,6 +128,7 @@ Previous: [2018](#2018-41)
 [NGG]: https://wt365.github.io/lib/svg/tv/natgeo.svg "National Geographic"
 [YTB]: https://wt365.github.io/lib/svg/tv/youtube.svg "YouTube Original"
 [SCK]: https://wt365.github.io/lib/svg/tv/crackle.svg "Sony Crackle"
+[ADC]: https://wt365.github.io/lib/svg/tv/audience.svg "Audience Network"
 [CN]: https://wt365.github.io/lib/svg/flag/cn.svg "China"
 [US]: https://wt365.github.io/lib/svg/flag/us.svg "USA"
 [UK]: https://wt365.github.io/lib/svg/flag/uk.svg "UK"
