@@ -10,7 +10,6 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 * **Black Monday** ![][US] ![][SHO]
 * **True Detective** 3 ![][US] ![][HBO]
 * **The Passage** ![][US] ![][FOX]
-* **Counterpart** 2 (2018) ![][US] ![][STZ]
 * **Seal Team** 2 (2018) ![][US] ![][CBS]
 
 ## TV Series I have seen
@@ -21,6 +20,10 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 Previous: [2018](#2018-41)
 
 ## 2019
+
+### Feb 2019
+* **Counterpart** 2 (2018) ![][US] ![][STZ] ![][s45]
+
 
 ### Jan 2019 (3)
 * **Mars** 2 (2018) ![][US] ![][NGG] ![][s45]
