@@ -8,8 +8,7 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 ## Watching List
 * **Miracle Workers** ![][US] ![][TBS]
 * **Black Monday** ![][US] ![][SHO]
-* **True Detective** 3 ![][US] ![][HBO]
-* **The Passage** ![][US] ![][FOX]
+* **The Passage** ![][US] ![][FOX] ![][Rec]
 * **Seal Team** 2 (2018) ![][US] ![][CBS]
 
 ## TV Series I have seen
@@ -22,6 +21,7 @@ Previous: [2018](#2018-41)
 ## 2019
 
 ### Feb 2019
+* **True Detective** 3 ![][US] ![][HBO] ![][s45]
 * **Counterpart** 2 (2018) ![][US] ![][STZ] ![][s45]
 
 
