@@ -14,13 +14,13 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 ## TV Series I have seen
 
 ### Index: 
-2019: [Jan](#jan-2019-3)
+2019: [Feb](#feb-2019-2) | [Jan](#jan-2019-3)
 
 Previous: [2018](#2018-41)
 
 ## 2019
 
-### Feb 2019
+### Feb 2019 (2)
 * **True Detective** 3 ![][US] ![][HBO] ![][s45]
 * **Counterpart** 2 (2018) ![][US] ![][STZ] ![][s45]
 
