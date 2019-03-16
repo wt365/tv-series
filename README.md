@@ -8,17 +8,19 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 ## Watching List
 * **Miracle Workers** ![][US] ![][TBS]
 * **Black Monday** ![][US] ![][SHO]
-* **The Passage** ![][US] ![][FOX] ![][Rec]
 * **Seal Team** 2 (2018) ![][US] ![][CBS]
 
 ## TV Series I have seen
 
 ### Index: 
-2019: [Feb](#feb-2019-2) | [Jan](#jan-2019-3)
+2019: [March](#march-2019) | [Feb](#feb-2019-2) | [Jan](#jan-2019-3)
 
 Previous: [2018](#2018-41)
 
 ## 2019
+
+### March 2019
+* **The Passage** ![][US] ![][FOX] ![][s35]
 
 ### Feb 2019 (2)
 * **True Detective** 3 ![][US] ![][HBO] ![][s45]
