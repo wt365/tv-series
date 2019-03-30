@@ -7,7 +7,6 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 
 ## Watching List
 * **Billions** 4 ![][US] ![][SHO]
-* **Miracle Workers** ![][US] ![][TBS]
 * **Black Monday** ![][US] ![][SHO]
 * **Seal Team** 2 (2018) ![][US] ![][CBS]
 
@@ -21,6 +20,7 @@ Previous: [2018](#2018-41)
 ## 2019
 
 ### March 2019
+* **Miracle Workers** ![][US] ![][TBS] ![][s35]
 * **Love, Death & Robots** ![][US] ![][NFX] ![][s45]
 * **The Passage** ![][US] ![][FOX] ![][s35]
 
