@@ -6,21 +6,23 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 ![][Rec] - recommended ones (for those I am **watching**).
 
 ## Watching List
-* **Hanna** ![][US] ![][AMZ]
 * **Billions** 4 ![][US] ![][SHO]
-* **Black Monday** ![][US] ![][SHO]
 * **Seal Team** 2 (2018) ![][US] ![][CBS]
 
 ## TV Series I have seen
 
 ### Index: 
-2019: [March](#march-2019) | [Feb](#feb-2019-2) | [Jan](#jan-2019-3)
+2019: [April](#april-2019) | [March](#march-2019-3) | [Feb](#feb-2019-2) | [Jan](#jan-2019-3)
 
 Previous: [2018](#2018-41)
 
 ## 2019
 
-### March 2019
+### April 2019
+* **Black Monday** ![][US] ![][SHO] ![][s35]
+* **Hanna** ![][US] ![][AMZ] ![][s4]
+
+### March 2019 (3)
 * **Miracle Workers** ![][US] ![][TBS] ![][s35]
 * **Love, Death & Robots** ![][US] ![][NFX] ![][s45]
 * **The Passage** ![][US] ![][FOX] ![][s35]
