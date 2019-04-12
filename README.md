@@ -19,6 +19,7 @@ Previous: [2018](#2018-41)
 ## 2019
 
 ### April 2019
+* **You vs. Wild** ![][US] ![][NFX] ![][s4]
 * **Black Monday** ![][US] ![][SHO] ![][s35]
 * **Hanna** ![][US] ![][AMZ] ![][s4]
 
