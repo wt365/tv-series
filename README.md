@@ -6,7 +6,6 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 ![][Rec] - recommended ones (for those I am **watching**).
 
 ## Watching List
-* **Inside No. 9** 4 (2018) ![][UK] ![][BBC]
 * **The Enemy Within** ![][US] ![][NBC]
 * **Billions** 4 ![][US] ![][SHO]
 * **Seal Team** 2 (2018) ![][US] ![][CBS]
@@ -14,13 +13,15 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 ## TV Series I have seen
 
 ### Index: 
-2019: [April](#april-2019) | [March](#march-2019-3) | [Feb](#feb-2019-2) | [Jan](#jan-2019-3)
+2019: [April](#april-2019-5) | [March](#march-2019-3) | [Feb](#feb-2019-2) | [Jan](#jan-2019-3)
 
 Previous: [2018](#2018-41)
 
 ## 2019
 
-### April 2019
+### April 2019 (5)
+* **Bonding** ![][US] ![][NFX] ![][s35]
+* **Inside No. 9** 4 (2018) ![][UK] ![][BBC] ![][s45]
 * **You vs. Wild** ![][US] ![][NFX] ![][s4]
 * **Black Monday** ![][US] ![][SHO] ![][s35]
 * **Hanna** ![][US] ![][AMZ] ![][s4]
