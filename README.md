@@ -6,6 +6,7 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 ![][Rec] - recommended ones (for those I am **watching**).
 
 ## Watching List
+* **Chernobyl** ![][US] ![][UK] ![][HBO]
 * **The Enemy Within** ![][US] ![][NBC]
 * **Billions** 4 ![][US] ![][SHO]
 * **Seal Team** 2 (2018) ![][US] ![][CBS]
