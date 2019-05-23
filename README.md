@@ -7,7 +7,6 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 
 ## Watching List
 * **Chernobyl** ![][US] ![][UK] ![][HBO]
-* **The Enemy Within** ![][US] ![][NBC]
 * **Billions** 4 ![][US] ![][SHO]
 * **Seal Team** 2 (2018) ![][US] ![][CBS]
 
@@ -21,6 +20,7 @@ Previous: [2018](#2018-41)
 ## 2019
 
 ### May 2019
+* **The Enemy Within** ![][US] ![][NBC] ![][s4]
 * **The Society** ![][US] ![][NFX] ![][s3]
 
 ### April 2019 (5)
