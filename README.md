@@ -6,7 +6,7 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 ![][Rec] - recommended ones (for those I am **watching**).
 
 ## Watching List
-* **The Thunder** ![][CN]
+* **The Thunder**《破冰行动》 ![][CN]
 * **Chernobyl** ![][US] ![][UK] ![][HBO]
 * **Billions** 4 ![][US] ![][SHO]
 
