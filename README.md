@@ -6,9 +6,9 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 ![][Rec] - recommended ones (for those I am **watching**).
 
 ## Watching List
+* **The Thunder** ![][CN]
 * **Chernobyl** ![][US] ![][UK] ![][HBO]
 * **Billions** 4 ![][US] ![][SHO]
-* **Seal Team** 2 (2018) ![][US] ![][CBS]
 
 ## TV Series I have seen
 
@@ -20,6 +20,7 @@ Previous: [2018](#2018-41)
 ## 2019
 
 ### May 2019
+* **Seal Team** 2 (2018) ![][US] ![][CBS] ![][s3]
 * **The Enemy Within** ![][US] ![][NBC] ![][s4]
 * **The Society** ![][US] ![][NFX] ![][s3]
 
