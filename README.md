@@ -6,18 +6,20 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 ![][Rec] - recommended ones (for those I am **watching**).
 
 ## Watching List
-* **The Thunder**《破冰行动》 ![][CN]
 * **Chernobyl** ![][US] ![][UK] ![][HBO]
 * **Billions** 4 ![][US] ![][SHO]
 
 ## TV Series I have seen
 
 ### Index: 
-2019: [May](#may-2019) | [April](#april-2019-5) | [March](#march-2019-3) | [Feb](#feb-2019-2) | [Jan](#jan-2019-3)
+2019: [June](#june-2019) | [May](#may-2019) | [April](#april-2019-5) | [March](#march-2019-3) | [Feb](#feb-2019-2) | [Jan](#jan-2019-3)
 
 Previous: [2018](#2018-41)
 
 ## 2019
+
+### June 2019
+* **The Thunder**《破冰行动》 ![][CN] ![][s35]
 
 ### May 2019
 * **Seal Team** 2 (2018) ![][US] ![][CBS] ![][s3]
