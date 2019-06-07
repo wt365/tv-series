@@ -6,7 +6,6 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 ![][Rec] - recommended ones (for those I am **watching**).
 
 ## Watching List
-* **Chernobyl** ![][US] ![][UK] ![][HBO]
 * **Billions** 4 ![][US] ![][SHO]
 
 ## TV Series I have seen
@@ -19,6 +18,8 @@ Previous: [2018](#2018-41)
 ## 2019
 
 ### June 2019
+* **Black Mirror** 5 ![][US] ![][NFX] ![][s4]
+* **Chernobyl** ![][US] ![][UK] ![][HBO] ![][s45]
 * **The Thunder**《破冰行动》 ![][CN] ![][s35]
 
 ### May 2019
