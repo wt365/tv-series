@@ -6,7 +6,6 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 ![][Rec] - recommended ones (for those I am **watching**).
 
 ## Watching List
-* **La Casa de Papel** 2 ![][ES] ![][NFX]
 * **Designated Survivor** 3 ![][US] ![][NFX]
 
 ## TV Series I have seen
@@ -19,7 +18,8 @@ Previous: [2018](#2018-41)
 ## 2019
 
 ### June 2019
-* **La Casa de Papel** ![][ES] ![][NFX] ![][s4]
+* **La Casa de Papel** 2 ![][ES] ![][NFX] ![][s4]
+* **La Casa de Papel** ![][ES] ![][NFX] ![][s45]
 * **Billions** 4 ![][US] ![][SHO] ![][s45]
 * **Black Mirror** 5 ![][US] ![][NFX] ![][s4]
 * **Chernobyl** ![][US] ![][UK] ![][HBO] ![][s45]
