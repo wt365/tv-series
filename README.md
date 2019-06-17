@@ -6,7 +6,7 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 ![][Rec] - recommended ones (for those I am **watching**).
 
 ## Watching List
-* **Designated Survivor** 3 ![][US] ![][NFX]
+* **The Rain** 2 ![][DK] ![][NFX]
 
 ## TV Series I have seen
 
@@ -91,7 +91,7 @@ Previous: [2018](#2018-41)
 * **Designated Survivor** 2 (2017) ![][US] ![][ABC] ![][s3]
 * **Silicon Valley** 5 ![][US] ![][HBO] ![][s45]
 * **Seal Team** (2017) ![][US] ![][CBS] ![][s35]
-* **The Rain** ![][DK] ![][NFX] ![s4]
+* **The Rain** ![][DK] ![][NFX] ![][s4]
 
 ### April 2018 (6)
 * **Homeland** 7 ![][US] ![][SHO] ![][s45]
