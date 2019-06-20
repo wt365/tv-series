@@ -6,7 +6,7 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 ![][Rec] - recommended ones (for those I am **watching**).
 
 ## Watching List
-* **The Rain** 2 ![][DK] ![][NFX]
+* *None*
 
 ## TV Series I have seen
 
@@ -18,6 +18,7 @@ Previous: [2018](#2018-41)
 ## 2019
 
 ### June 2019
+* **The Rain** 2 ![][DK] ![][NFX] ![][s3]
 * **La Casa de Papel** 2 ![][ES] ![][NFX] ![][s4]
 * **La Casa de Papel** ![][ES] ![][NFX] ![][s45]
 * **Billions** 4 ![][US] ![][SHO] ![][s45]
