@@ -11,7 +11,7 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 ## TV Series I have seen
 
 ### Index: 
-2019: [June](#june-2019) | [May](#may-2019) | [April](#april-2019-5) | [March](#march-2019-3) | [Feb](#feb-2019-2) | [Jan](#jan-2019-3)
+2019: [June](#june-2019) | [May](#may-2019-3) | [April](#april-2019-5) | [March](#march-2019-3) | [Feb](#feb-2019-2) | [Jan](#jan-2019-3)
 
 Previous: [2018](#2018-41)
 
@@ -26,7 +26,7 @@ Previous: [2018](#2018-41)
 * **Chernobyl** ![][US] ![][UK] ![][HBO] ![][s45]
 * **The Thunder**《破冰行动》 ![][CN] ![][IQY] ![][s35]
 
-### May 2019
+### May 2019 (3)
 * **Seal Team** 2 (2018) ![][US] ![][CBS] ![][s3]
 * **The Enemy Within** ![][US] ![][NBC] ![][s4]
 * **The Society** ![][US] ![][NFX] ![][s3]
