@@ -6,7 +6,7 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 ![][Rec] - recommended ones (for those I am **watching**).
 
 ## Watching List
-* **Extreme Treks: Sacred Mountains of China** (2014) ![][UK]
+* **Extreme Treks: Sacred Mountains of China** (2014) ![][UK] ![][DSC]
 
 ## TV Series I have seen
 
@@ -157,6 +157,7 @@ Previous: [2018](#2018-41)
 [ADC]: https://wt365.github.io/lib/svg/tv/audience.svg "Audience Network"
 [NBC]: https://wt365.github.io/lib/svg/tv/nbc.svg "NBC"
 [IQY]: https://wt365.github.io/lib/svg/tv/iqiyi.svg "iQiyi"
+[DSC]: https://wt365.github.io/lib/svg/tv/discovery.svg "Discovery"
 [CN]: https://wt365.github.io/lib/svg/flag/cn.svg "China"
 [US]: https://wt365.github.io/lib/svg/flag/us.svg "USA"
 [UK]: https://wt365.github.io/lib/svg/flag/uk.svg "UK"
