@@ -19,8 +19,8 @@ Previous: [2018](#2018-41)
 
 ### June 2019
 * **The Rain** 2 ![][DK] ![][NFX] ![][s3]
-* **La Casa de Papel** 2 ![][ES] ![][NFX] ![][s4]
-* **La Casa de Papel** ![][ES] ![][NFX] ![][s45]
+* **La Casa de Papel** 2 (2018) ![][ES] ![][NFX] ![][s4]
+* **La Casa de Papel** (2017) ![][ES] ![][NFX] ![][s45]
 * **Billions** 4 ![][US] ![][SHO] ![][s45]
 * **Black Mirror** 5 ![][US] ![][NFX] ![][s4]
 * **Chernobyl** ![][US] ![][UK] ![][HBO] ![][s45]
