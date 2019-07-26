@@ -6,6 +6,8 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 ![][Rec] - recommended ones (for those I am **watching**).
 
 ## Watching List
+* **La Casa de Papel** 3 ![][ES] ![][NFX] ![][Rec]
+* **Stranger Things** 3 ![][US] ![][NFX]
 * **The Longest Day In Chang'an**《长安十二时辰》![][CN] ![][YKU]
 
 ## TV Series I have seen
