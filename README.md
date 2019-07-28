@@ -6,18 +6,20 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 ![][Rec] - recommended ones (for those I am **watching**).
 
 ## Watching List
-* **La Casa de Papel** 3 ![][ES] ![][NFX] ![][Rec]
-* **Stranger Things** 3 ![][US] ![][NFX]
 * **The Longest Day In Chang'an**《长安十二时辰》![][CN] ![][YKU]
 
 ## TV Series I have seen
 
 ### Index: 
-2019: [June](#june-2019-8) | [May](#may-2019-3) | [April](#april-2019-5) | [March](#march-2019-3) | [Feb](#feb-2019-2) | [Jan](#jan-2019-3)
+2019: [July](#july-2019-2) | [June](#june-2019-8) | [May](#may-2019-3) | [April](#april-2019-5) | [March](#march-2019-3) | [Feb](#feb-2019-2) | [Jan](#jan-2019-3)
 
 Previous: [2018](#2018-41)
 
 ## 2019
+
+### July 2019 (2)
+* **Stranger Things** 3 ![][US] ![][NFX] ![][s35]
+* **La Casa de Papel** 3 ![][ES] ![][NFX] ![][s45]
 
 ### June 2019 (8)
 * **Extreme Treks: Sacred Mountains of China** (2014) ![][UK] ![][DSC] ![][s4]
