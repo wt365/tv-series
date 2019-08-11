@@ -6,6 +6,7 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 ![][Rec] - recommended ones (for those I am **watching**).
 
 ## Watching List
+* **Chasing the Moon** ![][US] ![][PBS]
 * **The Longest Day In Chang'an**《长安十二时辰》![][CN] ![][YKU]
 
 ## TV Series I have seen
@@ -16,6 +17,9 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 Previous: [2018](#2018-41)
 
 ## 2019
+
+### Aug 2019
+* **Apollo: Back to the Moon** ![][US] ![][NGG] ![][s35]
 
 ### July 2019 (2)
 * **Stranger Things** 3 ![][US] ![][NFX] ![][s35]
@@ -164,6 +168,7 @@ Previous: [2018](#2018-41)
 [IQY]: https://wt365.github.io/lib/svg/tv/iqiyi.svg "iQiyi"
 [DSC]: https://wt365.github.io/lib/svg/tv/discovery.svg "Discovery"
 [YKU]: https://wt365.github.io/lib/svg/tv/youku.svg "Youku"
+[PBS]: https://wt365.github.io/lib/svg/tv/pbs.svg "PBS"
 [CN]: https://wt365.github.io/lib/svg/flag/cn.svg "China"
 [US]: https://wt365.github.io/lib/svg/flag/us.svg "USA"
 [UK]: https://wt365.github.io/lib/svg/flag/uk.svg "UK"
