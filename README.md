@@ -7,18 +7,18 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 
 ## Watching List
 * **Chasing the Moon** ![][US] ![][PBS]
-* **The Longest Day In Chang'an**《长安十二时辰》![][CN] ![][YKU]
 
 ## TV Series I have seen
 
 ### Index: 
-2019: [July](#july-2019-2) | [June](#june-2019-8) | [May](#may-2019-3) | [April](#april-2019-5) | [March](#march-2019-3) | [Feb](#feb-2019-2) | [Jan](#jan-2019-3)
+2019: [Aug](#aug-2019) | [July](#july-2019-2) | [June](#june-2019-8) | [May](#may-2019-3) | [April](#april-2019-5) | [March](#march-2019-3) | [Feb](#feb-2019-2) | [Jan](#jan-2019-3)
 
 Previous: [2018](#2018-41)
 
 ## 2019
 
 ### Aug 2019
+* **The Longest Day In Chang'an**《长安十二时辰》![][CN] ![][YKU] ![][s45]
 * **Apollo: Back to the Moon** ![][US] ![][NGG] ![][s35]
 
 ### July 2019 (2)
