@@ -6,6 +6,7 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 ![][Rec] - recommended ones (for those I am **watching**).
 
 ## Watching List
+* **Mindhunter** 2 ![][US] ![][NFX]
 * **Chasing the Moon** ![][US] ![][PBS]
 
 ## TV Series I have seen
@@ -18,6 +19,7 @@ Previous: [2018](#2018-41)
 ## 2019
 
 ### Aug 2019
+* **Go Go Squid!**《亲爱的，热爱的》![][CN] ![][s4]
 * **The Longest Day In Chang'an**《长安十二时辰》![][CN] ![][YKU] ![][s45]
 * **Apollo: Back to the Moon** ![][US] ![][NGG] ![][s35]
 
