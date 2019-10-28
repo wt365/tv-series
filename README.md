@@ -175,7 +175,7 @@ Previous: [2018](#2018-41)
 [TBS]: https://wt365.github.io/lib/svg/tv/tbs.svg "TBS"
 [TNT]: https://wt365.github.io/lib/svg/tv/tnt.svg "TNT"
 [TCV]: https://wt365.github.io/lib/svg/tv/tencent.svg "Tencent Video"
-[TCV]: https://wt365.github.io/lib/svg/tv/usa.svg "USA Network"
+[USA]: https://wt365.github.io/lib/svg/tv/usa.svg "USA Network"
 [YKU]: https://wt365.github.io/lib/svg/tv/youku.svg "Youku"
 [YTB]: https://wt365.github.io/lib/svg/tv/youtube.svg "YouTube Original"
 <!-- Countries -->
