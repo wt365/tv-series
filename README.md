@@ -6,16 +6,19 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 ![][Rec] - recommended ones (for those I am **watching**).
 
 ## Watching List
-* **O.J.: Made in America** ![][US] ![][ESP]
+* **Treadstone** ![][US] ![][USA]
 
 ## TV Series I have seen
 
 ### Index: 
-2019: [Aug](#aug-2019-4) | [July](#july-2019-2) | [June](#june-2019-8) | [May](#may-2019-3) | [April](#april-2019-5) | [March](#march-2019-3) | [Feb](#feb-2019-2) | [Jan](#jan-2019-3)
+2019: [Oct](#oct-2019) | [Aug](#aug-2019-4) | [July](#july-2019-2) | [June](#june-2019-8) | [May](#may-2019-3) | [April](#april-2019-5) | [March](#march-2019-3) | [Feb](#feb-2019-2) | [Jan](#jan-2019-3)
 
 Previous: [2018](#2018-41)
 
 ## 2019
+
+### Oct 2019
+* **O.J.: Made in America** (2016) ![][US] ![][ESP] ![][s45]
 
 ### Aug 2019 (4)
 * **Mindhunter** 2 ![][US] ![][NFX] ![][s4]
@@ -172,6 +175,7 @@ Previous: [2018](#2018-41)
 [TBS]: https://wt365.github.io/lib/svg/tv/tbs.svg "TBS"
 [TNT]: https://wt365.github.io/lib/svg/tv/tnt.svg "TNT"
 [TCV]: https://wt365.github.io/lib/svg/tv/tencent.svg "Tencent Video"
+[TCV]: https://wt365.github.io/lib/svg/tv/usa.svg "USA Network"
 [YKU]: https://wt365.github.io/lib/svg/tv/youku.svg "Youku"
 [YTB]: https://wt365.github.io/lib/svg/tv/youtube.svg "YouTube Original"
 <!-- Countries -->
