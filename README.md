@@ -11,13 +11,13 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 ## TV Series I have seen
 
 ### Index: 
-2019: [Oct](#oct-2019) | [Aug](#aug-2019-4) | [July](#july-2019-2) | [June](#june-2019-8) | [May](#may-2019-3) | [April](#april-2019-5) | [March](#march-2019-3) | [Feb](#feb-2019-2) | [Jan](#jan-2019-3)
+2019: [Oct](#oct-2019-1) | [Aug](#aug-2019-4) | [July](#july-2019-2) | [June](#june-2019-8) | [May](#may-2019-3) | [April](#april-2019-5) | [March](#march-2019-3) | [Feb](#feb-2019-2) | [Jan](#jan-2019-3)
 
 Previous: [2018](#2018-41)
 
 ## 2019
 
-### Oct 2019
+### Oct 2019 (1)
 * **O.J.: Made in America** (2016) ![][US] ![][ESP] ![][s45]
 
 ### Aug 2019 (4)
