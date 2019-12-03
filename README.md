@@ -6,6 +6,7 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 ![][Rec] - recommended ones (for those I am **watching**).
 
 ## Watching List
+* **For All Mankind** ![][US] ![][APL]
 * **Treadstone** ![][US] ![][USA]
 
 ## TV Series I have seen
@@ -155,6 +156,7 @@ Previous: [2018](#2018-41)
 [ADC]: https://wt365.github.io/lib/svg/tv/audience.svg "Audience Network"
 [AMC]: https://wt365.github.io/lib/svg/tv/amc.svg "AMC"
 [AMZ]: https://wt365.github.io/lib/svg/tv/prime.svg "Amazon Prime"
+[APL]: https://wt365.github.io/lib/svg/tv/appletv.svg "Apple TV+"
 [BBC]: https://wt365.github.io/lib/svg/tv/bbc.svg "BBC"
 [CBS]: https://wt365.github.io/lib/svg/tv/cbs.svg "CBS"
 [CH4]: https://wt365.github.io/lib/svg/tv/channel4.svg "Channel 4"
