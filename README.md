@@ -6,8 +6,7 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 ![][Rec] - recommended ones (for those I am **watching**).
 
 ## Watching List
-* **For All Mankind** ![][US] ![][APL]
-* **Treadstone** ![][US] ![][USA]
+*None.*
 
 ## TV Series I have seen
 
@@ -17,6 +16,11 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 Previous: [2018](#2018-41)
 
 ## 2019
+
+### Dec 2019
+* **Silicon Valley** 6 ![][US] ![][HBO] ![][s4]
+* **Treadstone** ![][US] ![][USA] ![][s35]
+* **For All Mankind** ![][US] ![][APL] ![][s4]
 
 ### Oct 2019 (1)
 * **O.J.: Made in America** (2016) ![][US] ![][ESP] ![][s45]
