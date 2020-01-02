@@ -11,13 +11,12 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 ## TV Series I have seen
 
 ### Index: 
-2019: [Dec](#dec-2019) | [Oct](#oct-2019-1) | [Aug](#aug-2019-4) | [July](#july-2019-2) | [June](#june-2019-8) | [May](#may-2019-3) | [April](#april-2019-5) | [March](#march-2019-3) | [Feb](#feb-2019-2) | [Jan](#jan-2019-3)
 
-Previous: [2018](#2018-41)
+Previous Years: [2019](#2019-34) | [2018](#2018-41)
 
-## 2019
+## 2019 (34)
 
-### Dec 2019
+### Dec 2019 (3)
 * **Silicon Valley** 6 ![][US] ![][HBO] ![][s4]
 * **Treadstone** ![][US] ![][USA] ![][s35]
 * **For All Mankind** ![][US] ![][APL] ![][s4]
