@@ -10,9 +10,16 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 
 ## TV Series I have seen
 
-### Index: 
+### Index
+
+2020: [Feb](#feb-2020)
 
 Previous Years: [2019](#2019-34) | [2018](#2018-41)
+
+## 2020
+
+### Feb 2020
+* **The Expanse** 4 ![][US] ![][AMZ] ![][s4]
 
 ## 2019 (34)
 
