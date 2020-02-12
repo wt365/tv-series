@@ -6,7 +6,8 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 ![][Rec] - recommended ones (for those I am **watching**).
 
 ## Watching List
-* **Inside No.9** 5 ![][US] ![][BBC]
+* **Homeland** 8 ![][US] ![][SHO]
+* **Inside No.9** 5 ![][UK] ![][BBC]
 
 ## TV Series I have seen
 
