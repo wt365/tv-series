@@ -6,6 +6,7 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 ![][Rec] - recommended ones (for those I am **watching**).
 
 ## Watching List
+* **The Punisher** 2 (2019) ![][US] ![][NFX] ![][s4]
 * **Homeland** 8 ![][US] ![][SHO]
 * **Inside No.9** 5 ![][UK] ![][BBC]
 
@@ -20,6 +21,7 @@ Previous Years: [2019](#2019-34) | [2018](#2018-41)
 ## 2020
 
 ### Feb 2020
+* **The Punisher** (2017) ![][US] ![][NFX] ![][s4]
 * **The Hot Zone** ![][US] ![][NGG] ![][s4]
 * **The Expanse** 4 ![][US] ![][AMZ] ![][s4]
 
