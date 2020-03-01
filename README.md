@@ -13,13 +13,13 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 
 ### Index
 
-2020: [Feb](#feb-2020)
+2020: [Feb](#feb-2020-4)
 
 Previous Years: [2019](#2019-34) | [2018](#2018-41)
 
 ## 2020
 
-### Feb 2020
+### Feb 2020 (4)
 * **The Punisher** 2 (2019) ![][US] ![][NFX] ![][s3]
 * **The Punisher** (2017) ![][US] ![][NFX] ![][s35]
 * **The Hot Zone** ![][US] ![][NGG] ![][s4]
