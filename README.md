@@ -212,5 +212,6 @@ Previous Years: [2019](#2019-34) | [2018](#2018-41)
 [DK]: https://wt365.github.io/lib/svg/flag/dk.svg "Denmark"
 [ES]: https://wt365.github.io/lib/svg/flag/es.svg "Spain"
 [JP]: https://wt365.github.io/lib/svg/flag/jp.svg "Japan"
+[KR]: https://wt365.github.io/lib/svg/flag/kr.svg "Korea"
 [UK]: https://wt365.github.io/lib/svg/flag/uk.svg "UK"
 [US]: https://wt365.github.io/lib/svg/flag/us.svg "USA"
