@@ -6,8 +6,6 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 ![][Rec] - recommended ones (for those I am **watching**).
 
 ## Watching List
-* **Kingdom** 2《킹덤》 ![][KR] ![][NFX]
-* **Reborn**《重生》![][CN] ![][YKU]
 * **Westworld** 3 ![][US] ![][HBO]
 * **Homeland** 8 ![][US] ![][SHO]
 
@@ -23,6 +21,8 @@ Previous Years: [2019](#2019-34) | [2018](#2018-41)
 ## 2020
 
 ### April 2020
+* **Reborn**《重生》![][CN] ![][YKU]
+* **Kingdom** 2《킹덤2》 ![][KR] ![][NFX]
 * **Kingdom**《킹덤》(2019) ![][KR] ![][NFX] ![][s4]
 
 ### March 2020 (4)
