@@ -21,8 +21,9 @@ Previous Years: [2019](#2019-34) | [2018](#2018-41)
 ## 2020
 
 ### April 2020
-* **Reborn**《重生》![][CN] ![][YKU]
-* **Kingdom** 2《킹덤2》 ![][KR] ![][NFX]
+* **La Casa de Papel** 4 ![][ES] ![][NFX] ![][s5]
+* **Reborn**《重生》![][CN] ![][YKU] ![][s35]
+* **Kingdom** 2《킹덤2》 ![][KR] ![][NFX] ![][s4]
 * **Kingdom**《킹덤》(2019) ![][KR] ![][NFX] ![][s4]
 
 ### March 2020 (4)
