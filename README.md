@@ -7,8 +7,6 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 
 ## Watching List
 * **Westworld** 3 ![][US] ![][HBO]
-* **Homeland** 8 ![][US] ![][SHO]
-
 
 ## TV Series I have seen
 
@@ -21,6 +19,7 @@ Previous Years: [2019](#2019-34) | [2018](#2018-41)
 ## 2020
 
 ### April 2020
+* **Homeland** 8 ![][US] ![][SHO] ![][s45]
 * **La Casa de Papel** 4 ![][ES] ![][NFX] ![][s5]
 * **Reborn**《重生》![][CN] ![][YKU] ![][s35]
 * **Kingdom** 2《킹덤2》 ![][KR] ![][NFX] ![][s4]
