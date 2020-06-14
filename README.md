@@ -12,16 +12,21 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 
 ### Index
 
-2020: [May](#may-2020) | [April](#april-2020-5) | [March](#march-2020-4) [Feb](#feb-2020-4)
+2020: [June](#june-2020) | [May](#may-2020-2) | [April](#april-2020-5) | [March](#march-2020-4) [Feb](#feb-2020-4)
 
 Previous Years: [2019](#2019-34) | [2018](#2018-41)
 
 ## 2020
 
-### May 2020
+### June 2020
+* **The Capture** ![][UK] ![][US] ![][BBC] ![][s4]
+* **Space Force** ![][US] ![][NFX] ![][s35]
+
+### May 2020 (2)
+* **Upload** ![][US] ![][AMZ] ![][s4]
 * **Westworld** 3 ![][US] ![][HBO] ![][s4]
 
-### April 2020
+### April 2020 (5)
 * **Homeland** 8 ![][US] ![][SHO] ![][s45]
 * **La Casa de Papel** 4 ![][ES] ![][NFX] ![][s5]
 * **Reborn**《重生》![][CN] ![][YKU] ![][s35]
