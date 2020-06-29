@@ -19,6 +19,7 @@ Previous Years: [2019](#2019-34) | [2018](#2018-41)
 ## 2020
 
 ### June 2020
+* **The Bad Kids**《隐秘的角落》![][CN] ![][IQY] ![][s4]
 * **The Capture** ![][UK] ![][US] ![][BBC] ![][s4]
 * **Space Force** ![][US] ![][NFX] ![][s35]
 
