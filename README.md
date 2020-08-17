@@ -6,19 +6,20 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 ![][Rec] - recommended ones (for those I am **watching**).
 
 ## Watching List
-* **Hanna** 2 ![][US] ![][AMZ]
+* **Unsolved Mysteries** ![][US] ![][NFX]
 
 ## TV Series I have seen
 
 ### Index
 
-2020: [July](#july-2020) | [June](#june-2020-3) | [May](#may-2020-2) | [April](#april-2020-5) | [March](#march-2020-4) [Feb](#feb-2020-4)
+2020: [July](#july-2020-2) | [June](#june-2020-3) | [May](#may-2020-2) | [April](#april-2020-5) | [March](#march-2020-4) [Feb](#feb-2020-4)
 
 Previous Years: [2019](#2019-34) | [2018](#2018-41)
 
 ## 2020
 
-### July 2020
+### July 2020 (2)
+* **Hanna** 2 ![][US] ![][AMZ] ![][s35]
 * **Burning Ice**《无证之罪》![][CN] ![][IQY] ![][s4]
 
 ### June 2020 (3)
