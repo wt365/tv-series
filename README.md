@@ -6,7 +6,7 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 ![][Rec] - recommended ones (for those I am **watching**).
 
 ## Watching List
-* **Unsolved Mysteries** ![][US] ![][NFX]
+*None.*
 
 ## TV Series I have seen
 
@@ -17,6 +17,9 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 Previous Years: [2019](#2019-34) | [2018](#2018-41)
 
 ## 2020
+### Aug 2020
+* **Dark/Web** ![][US] ![][AMZ] ![][s3]
+* **Unsolved Mysteries** ![][US] ![][NFX] ![][s4]
 
 ### July 2020 (2)
 * **Hanna** 2 ![][US] ![][AMZ] ![][s35]
