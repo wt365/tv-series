@@ -6,18 +6,19 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 ![][Rec] - recommended ones (for those I am **watching**).
 
 ## Watching List
-*None.*
+* **Raised by Wolves** ![][US] ![][HBO]
 
 ## TV Series I have seen
 
 ### Index
 
-2020: [July](#july-2020-2) | [June](#june-2020-3) | [May](#may-2020-2) | [April](#april-2020-5) | [March](#march-2020-4) [Feb](#feb-2020-4)
+2020: [Aug](#aug-2020-3) | [July](#july-2020-2) | [June](#june-2020-3) | [May](#may-2020-2) | [April](#april-2020-5) | [March](#march-2020-4) [Feb](#feb-2020-4)
 
 Previous Years: [2019](#2019-34) | [2018](#2018-41)
 
 ## 2020
-### Aug 2020
+### Aug 2020 (3)
+* **Biohackers** ![][DE] ![][NFX] ![][s35]
 * **Dark/Web** ![][US] ![][AMZ] ![][s3]
 * **Unsolved Mysteries** ![][US] ![][NFX] ![][s4]
 
@@ -225,6 +226,7 @@ Previous Years: [2019](#2019-34) | [2018](#2018-41)
 [YTB]: https://wt365.github.io/lib/svg/tv/youtube.svg "YouTube Original"
 <!-- Countries -->
 [CN]: https://wt365.github.io/lib/svg/flag/cn.svg "China"
+[DE]: https://wt365.github.io/lib/svg/flag/de.svg "Germany"
 [DK]: https://wt365.github.io/lib/svg/flag/dk.svg "Denmark"
 [ES]: https://wt365.github.io/lib/svg/flag/es.svg "Spain"
 [JP]: https://wt365.github.io/lib/svg/flag/jp.svg "Japan"
