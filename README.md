@@ -6,6 +6,7 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 ![][Rec] - recommended ones (for those I am **watching**).
 
 ## Watching List
+* **Quantum Break** ![][US] ![][XBX]
 * **Raised by Wolves** ![][US] ![][HBO]
 
 ## TV Series I have seen
@@ -222,6 +223,7 @@ Previous Years: [2019](#2019-34) | [2018](#2018-41)
 [TNT]: https://wt365.github.io/lib/svg/tv/tnt.svg "TNT"
 [TCV]: https://wt365.github.io/lib/svg/tv/tencent.svg "Tencent Video"
 [USA]: https://wt365.github.io/lib/svg/tv/usa.svg "USA Network"
+[XBX]: https://wt365.github.io/lib/svg/tv/xbox.svg "XBOX"
 [YKU]: https://wt365.github.io/lib/svg/tv/youku.svg "Youku"
 [YTB]: https://wt365.github.io/lib/svg/tv/youtube.svg "YouTube Original"
 <!-- Countries -->
