@@ -6,18 +6,21 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 ![][Rec] - recommended ones (for those I am **watching**).
 
 ## Watching List
-* **Quantum Break** ![][US] ![][XBX]
 * **Raised by Wolves** ![][US] ![][HBO]
 
 ## TV Series I have seen
 
 ### Index
 
-2020: [Aug](#aug-2020-3) | [July](#july-2020-2) | [June](#june-2020-3) | [May](#may-2020-2) | [April](#april-2020-5) | [March](#march-2020-4) [Feb](#feb-2020-4)
+2020: [Sept](#sept-2020-2) | [Aug](#aug-2020-3) | [July](#july-2020-2) | [June](#june-2020-3) | [May](#may-2020-2) | [April](#april-2020-5) | [March](#march-2020-4) [Feb](#feb-2020-4)
 
 Previous Years: [2019](#2019-34) | [2018](#2018-41)
 
 ## 2020
+### Sept 2020 (2)
+* **The Long Night**《沉默的真相》![][CN] ![][IQY] ![][s5]
+* **Quantum Break** (2016) ![][US] ![][XBX] ![][s4]
+
 ### Aug 2020 (3)
 * **Biohackers** ![][DE] ![][NFX] ![][s35]
 * **Dark/Web** ![][US] ![][AMZ] ![][s3]
