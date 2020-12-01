@@ -13,13 +13,16 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 
 ### Index
 
-2020: [Nov](#nov-2020) | [Oct](#oct-2020-1) | [Sept](#sept-2020-2) | [Aug](#aug-2020-3) | [July](#july-2020-2) | [June](#june-2020-3) | [May](#may-2020-2) | [April](#april-2020-5) | [March](#march-2020-4) [Feb](#feb-2020-4)
+2020: [Dec](#dec-2020) | [Nov](#nov-2020-3) | [Oct](#oct-2020-1) | [Sept](#sept-2020-2) | [Aug](#aug-2020-3) | [July](#july-2020-2) | [June](#june-2020-3) | [May](#may-2020-2) | [April](#april-2020-5) | [March](#march-2020-4) [Feb](#feb-2020-4)
 
 Previous Years: [2019](#2019-34) | [2018](#2018-41)
 
 ## 2020
 
-### Nov 2020
+### Dec 2020
+* **The Undoing** ![][US] ![][HBO] ![][s35]
+
+### Nov 2020 (3)
 * **Run for Young**《风犬少年的天空》![][CN] ![][BLI] ![][s4]
 * **The Queen's Gambit** ![][US] ![][NFX] ![][s5]
 * **The Third Day** ![][UK] ![][HBO] ![][s35]
