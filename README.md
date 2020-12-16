@@ -6,7 +6,6 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 ![][Rec] - recommended ones (for those I am **watching**).
 
 ## Watching List
-* **The Undoing** ![][US] ![][HBO]
 * **neXT** ![][US] ![][FOX]
 
 ## TV Series I have seen
@@ -20,6 +19,7 @@ Previous Years: [2019](#2019-34) | [2018](#2018-41)
 ## 2020
 
 ### Dec 2020
+* **A Murderous Affair in Horizon Tower**《摩天大楼》![][CN] ![][TCV] ![][s35]
 * **The Undoing** ![][US] ![][HBO] ![][s35]
 
 ### Nov 2020 (3)
