@@ -12,7 +12,7 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 
 ### Index
 
-2021: [Feb](#feb-2021)
+2021: [Feb](#feb-2021-1)
 
 Previous Years: [2020](#2020-32) | [2019](#2019-34) | [2018](#2018-41)
 
