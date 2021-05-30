@@ -6,19 +6,25 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 ![][Rec] - recommended ones (for those I am **watching**).
 
 ## Watching List
-* **Manifest** (2018) ![][US] ![][NBC]
+* **El Inocente** ![][ES] ![][NFX]
+* **Manifest** 3 ![][US] ![][NBC]
  
 ## TV Series I have seen
 
 ### Index
 
-2021: [April](#april-2021) | [March](#march-2021-2) [Feb](#feb-2021-1)
+2021: [May](#may-2021-3) | [April](#april-2021-1) | [March](#march-2021-2) | [Feb](#feb-2021-1)
 
 Previous Years: [2020](#2020-32) | [2019](#2019-34) | [2018](#2018-41)
 
 ## 2021
 
-### April 2021
+### May 2021 (3)
+* **Love, Death & Robots** ![][US] ![][NFX] ![][s4]
+* **Manifest** 2 (2020) ![][US] ![][NBC] ![][s35]
+* **Manifest** (2018) ![][US] ![][NBC] ![][s3]
+
+### April 2021 (1)
 * **For All Mankind** 2 ![][US] ![][APL] ![][s45]
 
 ### March 2021 (2)
