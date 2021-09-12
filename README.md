@@ -6,17 +6,21 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 ![][Rec] - recommended ones (for those I am **watching**).
 
 ## Watching List
-* **Crime Crackdown**《扫黑风暴》![][CN] ![][TCV]
+* **Dark** 3 ![][DE] ![][NFX] ![][Rec]
  
 ## TV Series I have seen
 
 ### Index
 
-2021: [June](#june-2021-2) | [May](#may-2021-3) | [April](#april-2021-1) | [March](#march-2021-2) | [Feb](#feb-2021-1)
+2021: [Sept](#sept-2021) | [June](#june-2021-2) | [May](#may-2021-3) | [April](#april-2021-1) | [March](#march-2021-2) | [Feb](#feb-2021-1)
 
 Previous Years: [2020](#2020-32) | [2019](#2019-34) | [2018](#2018-41)
 
 ## 2021
+### Sept 2021
+* **Dark** 2 (2019) ![][DE] ![][NFX] ![][s5]
+* **Dark** (2017) ![][DE] ![][NFX] ![][s45]
+* **Crime Crackdown**《扫黑风暴》![][CN] ![][TCV] ![][s35]
 
 ### June 2021 (2)
 * **Manifest** 3 ![][US] ![][NBC] ![][s3]
