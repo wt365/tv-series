@@ -6,7 +6,7 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 ![][Rec] - recommended ones (for those I am **watching**).
 
 ## Watching List
-* **Dark** 3 ![][DE] ![][NFX] ![][Rec]
+* **Vigil** ![][UK] ![][BBC]
  
 ## TV Series I have seen
 
@@ -18,6 +18,8 @@ Previous Years: [2020](#2020-32) | [2019](#2019-34) | [2018](#2018-41)
 
 ## 2021
 ### Sept 2021
+* **Squid Game**《오징어 게임》![][KR] ![][NFX] ![][s4]
+* **Dark** 3 (2020) ![][DE] ![][NFX] ![][s5]
 * **Dark** 2 (2019) ![][DE] ![][NFX] ![][s5]
 * **Dark** (2017) ![][DE] ![][NFX] ![][s45]
 * **Crime Crackdown**《扫黑风暴》![][CN] ![][TCV] ![][s35]
