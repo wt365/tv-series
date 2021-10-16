@@ -6,7 +6,6 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 ![][Rec] - recommended ones (for those I am **watching**).
 
 ## Watching List
-* **Billions** 5 (2020) ![][US] ![][SHO]
 * **Foundation** ![][US] ![][APL]
  
 ## TV Series I have seen
@@ -20,6 +19,7 @@ Previous Years: [2020](#2020-32) | [2019](#2019-34) | [2018](#2018-41)
 ## 2021
 
 ### Oct 2021
+* **Billions** 5 (2020) ![][US] ![][SHO] ![][s45]
 * **Rock & Roast** 4《脱口秀大会第四季》![][CN] ![][TCV] ![][s45]
 
 ### Sept 2021 (6)
