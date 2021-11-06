@@ -6,6 +6,7 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 ![][Rec] - recommended ones (for those I am **watching**).
 
 ## Watching List
+* **Narcos: Mexico** 2 ![][US] ![][MX] ![][NFX]
 * **La Casa de Papel** 5 ![][ES] ![][NFX]
 * **Foundation** ![][US] ![][APL]
  
@@ -13,13 +14,13 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 
 ### Index
 
-2021: [Oct](#oct-2021) | [Sept](#sept-2021-6) | [June](#june-2021-2) | [May](#may-2021-3) | [April](#april-2021-1) | [March](#march-2021-2) | [Feb](#feb-2021-1)
+2021: [Oct](#oct-2021-3) | [Sept](#sept-2021-6) | [June](#june-2021-2) | [May](#may-2021-3) | [April](#april-2021-1) | [March](#march-2021-2) | [Feb](#feb-2021-1)
 
 Previous Years: [2020](#2020-32) | [2019](#2019-34) | [2018](#2018-41)
 
 ## 2021
 
-### Oct 2021
+### Oct 2021 (3)
 * **The Pavilion**《八角亭谜雾》![][CN] ![][IQY] ![][s3]
 * **Billions** 5 (2020) ![][US] ![][SHO] ![][s45]
 * **Rock & Roast** 4《脱口秀大会第四季》![][CN] ![][TCV] ![][s45]
@@ -168,7 +169,7 @@ Previous Years: [2020](#2020-32) | [2019](#2019-34) | [2018](#2018-41)
 
 ### Dec 2018 (3)
 * **The First** ![][US] ![][HUL] ![][s4]
-* **Narcos: Mexico** ![][US] ![][NFX] ![][s4]
+* **Narcos: Mexico** ![][US] ![][MX] ![][NFX] ![][s4]
 * **Mars** (2016) ![][US] ![][NGG] ![][s45]
 
 ### Nov 2018 (3)
@@ -285,5 +286,6 @@ Previous Years: [2020](#2020-32) | [2019](#2019-34) | [2018](#2018-41)
 [ES]: https://wt365.github.io/lib/svg/flag/es.svg "Spain"
 [JP]: https://wt365.github.io/lib/svg/flag/jp.svg "Japan"
 [KR]: https://wt365.github.io/lib/svg/flag/kr.svg "Korea"
+[MX]: https://wt365.github.io/lib/svg/flag/mx.svg "Mexico"
 [UK]: https://wt365.github.io/lib/svg/flag/uk.svg "UK"
 [US]: https://wt365.github.io/lib/svg/flag/us.svg "USA"
