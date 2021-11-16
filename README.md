@@ -6,7 +6,7 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 ![][Rec] - recommended ones (for those I am **watching**).
 
 ## Watching List
-* **Narcos: Mexico** 2 ![][US] ![][MX] ![][NFX]
+* **Narcos: Mexico** 3 ![][US] ![][MX] ![][NFX]
 * **La Casa de Papel** 5 ![][ES] ![][NFX]
 * **Foundation** ![][US] ![][APL]
  
@@ -19,6 +19,9 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 Previous Years: [2020](#2020-32) | [2019](#2019-34) | [2018](#2018-41)
 
 ## 2021
+
+### Nov 2021
+* **Narcos: Mexico** 2 ![][US] ![][MX] ![][NFX] ![][s45]
 
 ### Oct 2021 (3)
 * **The Pavilion**《八角亭谜雾》![][CN] ![][IQY] ![][s3]
