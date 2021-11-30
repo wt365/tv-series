@@ -12,13 +12,13 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 
 ### Index
 
-2021: [Oct](#oct-2021-3) | [Sept](#sept-2021-6) | [June](#june-2021-2) | [May](#may-2021-3) | [April](#april-2021-1) | [March](#march-2021-2) | [Feb](#feb-2021-1)
+2021: [Nov](#nov-2021-3) | [Oct](#oct-2021-3) | [Sept](#sept-2021-6) | [June](#june-2021-2) | [May](#may-2021-3) | [April](#april-2021-1) | [March](#march-2021-2) | [Feb](#feb-2021-1)
 
 Previous Years: [2020](#2020-32) | [2019](#2019-34) | [2018](#2018-41)
 
 ## 2021
 
-### Nov 2021
+### Nov 2021 (3)
 * **Foundation** ![][US] ![][APL] ![][s4]
 * **Narcos: Mexico** 3 ![][US] ![][MX] ![][NFX] ![][s45]
 * **Narcos: Mexico** 2 ![][US] ![][MX] ![][NFX] ![][s45]
