@@ -6,8 +6,8 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 ![][Rec] - recommended ones (for those I am **watching**).
 
 ## Watching List
-* **La Casa de Papel** 5 ![][ES] ![][NFX]
- 
+*None.*
+
 ## TV Series I have seen
 
 ### Index
@@ -17,6 +17,9 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 Previous Years: [2020](#2020-32) | [2019](#2019-34) | [2018](#2018-41)
 
 ## 2021
+
+### Dec 2021
+* **La Casa de Papel** 5 ![][ES] ![][NFX] ![][s5]
 
 ### Nov 2021 (3)
 * **Foundation** ![][US] ![][APL] ![][s4]
