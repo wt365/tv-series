@@ -24,7 +24,7 @@ Previous Years: [2020](#2020-32) | [2019](#2019-34) | [2018](#2018-41)
 ### Nov 2021 (3)
 * **Foundation** ![][US] ![][APL] ![][s4]
 * **Narcos: Mexico** 3 ![][US] ![][MX] ![][NFX] ![][s45]
-* **Narcos: Mexico** 2 ![][US] ![][MX] ![][NFX] ![][s45]
+* **Narcos: Mexico** 2 (2020) ![][US] ![][MX] ![][NFX] ![][s45]
 
 ### Oct 2021 (3)
 * **The Pavilion**《八角亭谜雾》![][CN] ![][IQY] ![][s3]
