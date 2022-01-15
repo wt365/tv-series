@@ -12,9 +12,14 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 
 ### Index
 
-2021: [Dec](#dec-2021-1) | [Nov](#nov-2021-3) | [Oct](#oct-2021-3) | [Sept](#sept-2021-6) | [June](#june-2021-2) | [May](#may-2021-3) | [April](#april-2021-1) | [March](#march-2021-2) | [Feb](#feb-2021-1)
+2022: [Jan](#jan-2022)
 
-Previous Years: [2020](#2020-32) | [2019](#2019-34) | [2018](#2018-41)
+Previous Years: [2021](#2021-22) | [2020](#2020-32) | [2019](#2019-34) | [2018](#2018-41)
+
+## 2022
+
+### Jan 2022
+* **Bye 2021 Comedy Night**《脱口秀跨年2021》(2021) ![][CN] ![][TCV] ![][s35]
 
 ## 2021 (22)
 
