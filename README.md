@@ -6,19 +6,20 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 ![][Rec] - recommended ones (for those I am **watching**).
 
 ## Watching List
-*None.*
+* **Billions** 6 ![][US] ![][SHO]
 
 ## TV Series I have seen
 
 ### Index
 
-2022: [Jan](#jan-2022)
+2022: [Jan](#jan-2022-2)
 
 Previous Years: [2021](#2021-22) | [2020](#2020-32) | [2019](#2019-34) | [2018](#2018-41)
 
 ## 2022
 
-### Jan 2022
+### Jan 2022 (2)
+* **Reset**《开端》![][CN] ![][TCV] ![][s4]
 * **Bye 2021 Comedy Night**《脱口秀跨年2021》(2021) ![][CN] ![][TCV] ![][s35]
 
 ## 2021 (22)
