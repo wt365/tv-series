@@ -6,6 +6,7 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 ![][Rec] - recommended ones (for those I am **watching**).
 
 ## Watching List
+* **Raised by Wolves** 2 ![][US] ![][HBO]
 * **Billions** 6 ![][US] ![][SHO]
 
 ## TV Series I have seen
