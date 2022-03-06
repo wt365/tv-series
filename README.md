@@ -13,13 +13,13 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 
 ### Index
 
-2022: [Feb](#feb-2022) | [Jan](#jan-2022-2)
+2022: [Feb](#feb-2022-2) | [Jan](#jan-2022-2)
 
 Previous Years: [2021](#2021-22) | [2020](#2020-32) | [2019](#2019-34) | [2018](#2018-41)
 
 ## 2022
 
-### Feb 2022
+### Feb 2022 (2)
 * **Space Force** 2 ![][US] ![][NFX] ![][s35]
 * **Inventing Anna** ![][US] ![][NFX] ![][s35]
 
