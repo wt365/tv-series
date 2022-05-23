@@ -7,7 +7,6 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 
 ## Watching List
 
-* **Love, Death & Robots** 3 ![][US] ![][NFX]
 * **Inside No. 9** 7 ![][UK] ![][BBC] ![][BLI]
 
 ## TV Series I have seen
@@ -21,6 +20,7 @@ Previous Years: [2021](#2021-22) | [2020](#2020-32) | [2019](#2019-34) | [2018](
 ## 2022
 
 ### May 2022
+* **Love, Death & Robots** 3 ![][US] ![][NFX] ![][s4]
 * **The Wind Blows From Longxi**《风起陇西》![][CN] ![][IQY] ![][s4]
 
 ### April 2022 (2)
