@@ -7,6 +7,7 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 
 ## Watching List
 
+* **Prehistoric Planet** ![][US] ![][UK] ![][APL] ![][BBC]
 * **Inside No. 9** 7 ![][UK] ![][BBC] ![][BLI]
 
 ## TV Series I have seen
