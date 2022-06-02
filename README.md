@@ -7,20 +7,22 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 
 ## Watching List
 
-* **Prehistoric Planet** ![][US] ![][UK] ![][APL] ![][BBC]
 * **Inside No. 9** 7 ![][UK] ![][BBC] ![][BLI]
 
 ## TV Series I have seen
 
 ### Index
 
-2022: [May](#may-2022) | [April](#april-2022-2) | [March](#march-2022-7) | [Feb](#feb-2022-2) | [Jan](#jan-2022-2)
+2022: [June](#june-2022) | [May](#may-2022-2) | [April](#april-2022-2) | [March](#march-2022-7) | [Feb](#feb-2022-2) | [Jan](#jan-2022-2)
 
 Previous Years: [2021](#2021-22) | [2020](#2020-32) | [2019](#2019-34) | [2018](#2018-41)
 
 ## 2022
 
-### May 2022
+### June 2022
+* **Prehistoric Planet** ![][US] ![][UK] ![][APL] ![][BBC] ![][s5]
+
+### May 2022 (2)
 * **Love, Death & Robots** 3 ![][US] ![][NFX] ![][s4]
 * **The Wind Blows From Longxi**《风起陇西》![][CN] ![][IQY] ![][s4]
 
