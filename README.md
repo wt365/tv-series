@@ -7,7 +7,7 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 
 ## Watching List
 
-* **Inside No. 9** 7 ![][UK] ![][BBC] ![][BLI]
+* **For All Mankind** 3 ![][US] ![][APL]
 
 ## TV Series I have seen
 
@@ -20,6 +20,7 @@ Previous Years: [2021](#2021-22) | [2020](#2020-32) | [2019](#2019-34) | [2018](
 ## 2022
 
 ### June 2022
+* **Inside No. 9** 7 ![][UK] ![][BBC] ![][BLI] ![][s45]
 * **Prehistoric Planet** ![][US] ![][UK] ![][APL] ![][BBC] ![][s5]
 
 ### May 2022 (2)
