@@ -7,19 +7,20 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 
 ## Watching List
 
+* **Westworld** 4 ![][US] ![][HBO]
 * **For All Mankind** 3 ![][US] ![][APL]
 
 ## TV Series I have seen
 
 ### Index
 
-2022: [June](#june-2022) | [May](#may-2022-2) | [April](#april-2022-2) | [March](#march-2022-7) | [Feb](#feb-2022-2) | [Jan](#jan-2022-2)
+2022: [June](#june-2022-2) | [May](#may-2022-2) | [April](#april-2022-2) | [March](#march-2022-7) | [Feb](#feb-2022-2) | [Jan](#jan-2022-2)
 
 Previous Years: [2021](#2021-22) | [2020](#2020-32) | [2019](#2019-34) | [2018](#2018-41)
 
 ## 2022
 
-### June 2022
+### June 2022 (2)
 * **Inside No. 9** 7 ![][UK] ![][BBC] ![][BLI] ![][s45]
 * **Prehistoric Planet** ![][US] ![][UK] ![][APL] ![][BBC] ![][s5]
 
