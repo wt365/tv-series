@@ -6,7 +6,7 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 ![][Rec] - recommended ones (for those I am **watching**).
 
 ## Watching List
-
+* **The Heart of Genius**《天才基本法》![][CN] ![][IQY]
 * **Westworld** 4 ![][US] ![][HBO]
 * **For All Mankind** 3 ![][US] ![][APL]
 
