@@ -4,10 +4,11 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 
 ![][star] - marks my rating (for those I have **seen**).  
 ![][Rec] - recommended ones (for those I am **watching**).
+![][Pjt] - seen via a projector.
 
 ## Watching List
-* **Westworld** 4 ![][US] ![][HBO]
-* **For All Mankind** 3 ![][US] ![][APL]
+* **Westworld** 4 ![][US] ![][HBO] ![][Pjt]
+* **For All Mankind** 3 ![][US] ![][APL] ![][Pjt]
 
 ## TV Series I have seen
 
@@ -20,7 +21,7 @@ Previous Years: [2021](#2021-22) | [2020](#2020-32) | [2019](#2019-34) | [2018](
 ## 2022
 
 ### Aug 2022
-* **The Heart of Genius**《天才基本法》![][CN] ![][IQY] ![][s4]
+* **The Heart of Genius**《天才基本法》![][CN] ![][IQY] ![][Pjt] ![][s4]
 
 ### June 2022 (2)
 * **Inside No. 9** 7 ![][UK] ![][BBC] ![][BLI] ![][s45]
@@ -289,6 +290,8 @@ Previous Years: [2021](#2021-22) | [2020](#2020-32) | [2019](#2019-34) | [2018](
 [s4]: https://wt365.github.io/lib/svg/star/s4.svg "4 Stars"
 [s45]: https://wt365.github.io/lib/svg/star/s45.svg "4.5 Stars"
 [s5]: https://wt365.github.io/lib/svg/star/s5.svg "5 Stars"
+<!-- Projector -->
+[Pjt]: https://wt365.github.io/lib/svg/projector.svg "via Projector"
 <!-- Channels -->
 [ABC]: https://wt365.github.io/lib/svg/tv/abc.svg "ABC"
 [ADC]: https://wt365.github.io/lib/svg/tv/audience.svg "Audience Network"
