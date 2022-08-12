@@ -8,7 +8,6 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 
 ## Watching List
 * **Westworld** 4 ![][US] ![][HBO] ![][Pjt]
-* **For All Mankind** 3 ![][US] ![][APL] ![][Pjt]
 
 ## TV Series I have seen
 
@@ -21,6 +20,7 @@ Previous Years: [2021](#2021-22) | [2020](#2020-32) | [2019](#2019-34) | [2018](
 ## 2022
 
 ### Aug 2022
+* **For All Mankind** 3 ![][US] ![][APL] ![][Pjt] ![][s45]
 * **The Heart of Genius**《天才基本法》![][CN] ![][IQY] ![][Pjt] ![][s4]
 
 ### June 2022 (2)
