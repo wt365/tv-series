@@ -7,6 +7,7 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 ![][Pjt] - seen via a projector.
 
 ## Watching List
+* **Narco-Saints**《수리남》![][KR] ![][Pjt] ![][NFX]
 * **Rock & Roast** 5《脱口秀大会第五季》![][CN] ![][TCV]
 
 ## TV Series I have seen
