@@ -7,7 +7,6 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 ![][Pjt] - seen via a projector.
 
 ## Watching List
-* **Narco-Saints**《수리남》![][KR] ![][Pjt] ![][NFX]
 * **Rock & Roast** 5《脱口秀大会第五季》![][CN] ![][TCV]
 
 ## TV Series I have seen
@@ -21,6 +20,7 @@ Previous Years: [2021](#2021-22) | [2020](#2020-32) | [2019](#2019-34) | [2018](
 ## 2022
 
 ### Sept 2022
+* **Narco-Saints**《수리남》![][KR] ![][Pjt] ![][NFX] ![][s35]
 * **The Capture** 2 ![][UK] ![][BBC] ![][Pjt] ![][s45]
 * **Tehran** 2 ![][IL] ![][US] ![][APL] ![][Pjt] ![][s35]
 
