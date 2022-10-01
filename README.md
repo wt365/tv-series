@@ -13,13 +13,13 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 
 ### Index
 
-2022: [Sept](#sept-2022) | [Aug](#aug-2022-4) | [June](#june-2022-2) | [May](#may-2022-2) | [April](#april-2022-2) | [March](#march-2022-7) | [Feb](#feb-2022-2) | [Jan](#jan-2022-2)
+2022: [Sept](#sept-2022-3) | [Aug](#aug-2022-4) | [June](#june-2022-2) | [May](#may-2022-2) | [April](#april-2022-2) | [March](#march-2022-7) | [Feb](#feb-2022-2) | [Jan](#jan-2022-2)
 
 Previous Years: [2021](#2021-22) | [2020](#2020-32) | [2019](#2019-34) | [2018](#2018-41)
 
 ## 2022
 
-### Sept 2022
+### Sept 2022 (3)
 * **Narco-Saints**《수리남》![][KR] ![][Pjt] ![][NFX] ![][s35]
 * **The Capture** 2 ![][UK] ![][BBC] ![][Pjt] ![][s45]
 * **Tehran** 2 ![][IL] ![][US] ![][APL] ![][Pjt] ![][s35]
