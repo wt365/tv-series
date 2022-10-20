@@ -7,6 +7,7 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 ![][Pjt] - seen via a projector.
 
 ## Watching List
+* **Pantheon** ![][US] ![][AMC]
 * **Rock & Roast** 5《脱口秀大会第五季》![][CN] ![][TCV]
 
 ## TV Series I have seen
@@ -20,6 +21,7 @@ Previous Years: [2021](#2021-22) | [2020](#2020-32) | [2019](#2019-34) | [2018](
 ## 2022
 
 ### Oct 2022
+* **Cyberpunk: Edgerunners** ![][PL] ![][JP] ![][US] ![][NFX] ![][s4]
 * **The Terminal List** ![][US] ![][AMZ] ![][s4]
 * **Slow Horses** ![][UK] ![][APL] ![][s4]
 
@@ -343,5 +345,6 @@ Previous Years: [2021](#2021-22) | [2020](#2020-32) | [2019](#2019-34) | [2018](
 [JP]: https://wt365.github.io/lib/svg/flag/jp.svg "Japan"
 [KR]: https://wt365.github.io/lib/svg/flag/kr.svg "Korea"
 [MX]: https://wt365.github.io/lib/svg/flag/mx.svg "Mexico"
+[PL]: https://wt365.github.io/lib/svg/flag/pl.svg "Poland"
 [UK]: https://wt365.github.io/lib/svg/flag/uk.svg "UK"
 [US]: https://wt365.github.io/lib/svg/flag/us.svg "USA"
