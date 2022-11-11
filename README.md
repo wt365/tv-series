@@ -14,13 +14,13 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 
 ### Index
 
-2022: [Oct](#oct-2022) | [Sept](#sept-2022-3) | [Aug](#aug-2022-4) | [June](#june-2022-2) | [May](#may-2022-2) | [April](#april-2022-2) | [March](#march-2022-7) | [Feb](#feb-2022-2) | [Jan](#jan-2022-2)
+2022: [Oct](#oct-2022-4) | [Sept](#sept-2022-3) | [Aug](#aug-2022-4) | [June](#june-2022-2) | [May](#may-2022-2) | [April](#april-2022-2) | [March](#march-2022-7) | [Feb](#feb-2022-2) | [Jan](#jan-2022-2)
 
 Previous Years: [2021](#2021-22) | [2020](#2020-32) | [2019](#2019-34) | [2018](#2018-41)
 
 ## 2022
 
-### Oct 2022
+### Oct 2022 (4)
 * **Pantheon** ![][US] ![][AMC] ![][s45]
 * **Cyberpunk: Edgerunners** ![][PL] ![][JP] ![][US] ![][NFX] ![][s4]
 * **The Terminal List** ![][US] ![][AMZ] ![][s4]
