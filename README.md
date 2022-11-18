@@ -21,10 +21,10 @@ Previous Years: [2021](#2021-22) | [2020](#2020-32) | [2019](#2019-34) | [2018](
 ## 2022
 
 ### Oct 2022 (4)
-* **Pantheon** ![][US] ![][AMC] ![][s45]
-* **Cyberpunk: Edgerunners** ![][PL] ![][JP] ![][US] ![][NFX] ![][s4]
-* **The Terminal List** ![][US] ![][AMZ] ![][s4]
-* **Slow Horses** ![][UK] ![][APL] ![][s4]
+* **Pantheon** ![][US] ![][AMC] ![][Pjt] ![][s45]
+* **Cyberpunk: Edgerunners** ![][PL] ![][JP] ![][US] ![][NFX] ![][Pjt] ![][s4]
+* **The Terminal List** ![][US] ![][AMZ] ![][Pjt] ![][s4]
+* **Slow Horses** ![][UK] ![][APL] ![][Pjt] ![][s4]
 
 ### Sept 2022 (3)
 * **Narco-Saints**《수리남》![][KR] ![][NFX] ![][Pjt] ![][s35]
