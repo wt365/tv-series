@@ -7,7 +7,10 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 ![][Pjt] - seen via a projector.
 
 ## Watching List
-*None.*
+* **One Strange Rock** (2018) ![][US] ![][NGG] ![][YKU]
+* **Slow Horses** 2 ![][UK] ![][APL] ![][Pjt]
+* **Road Back Home**《回来的女儿》![][CN] ![][IQY] ![][Pjt]
+* **San Ti**《三体》![][CN] ![][BLI]
 
 ## TV Series I have seen
 
