@@ -7,22 +7,22 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 ![][Pjt] - seen via a projector.
 
 ## Watching List
-* **One Strange Rock** (2018) ![][US] ![][NGG] ![][YKU]
-* **Slow Horses** 2 ![][UK] ![][APL] ![][Pjt]
-* **Road Back Home**《回来的女儿》![][CN] ![][IQY] ![][Pjt]
 * **San Ti**《三体》![][CN] ![][BLI]
 
 ## TV Series I have seen
 
 ### Index
 
-2022: [Dec](#dec-2022) | [Nov](#nov-2022-1) | [Oct](#oct-2022-4) | [Sept](#sept-2022-3) | [Aug](#aug-2022-4) | [June](#june-2022-2) | [May](#may-2022-2) | [April](#april-2022-2) | [March](#march-2022-7) | [Feb](#feb-2022-2) | [Jan](#jan-2022-2)
+2022: [Dec](#dec-2022-4) | [Nov](#nov-2022-1) | [Oct](#oct-2022-4) | [Sept](#sept-2022-3) | [Aug](#aug-2022-4) | [June](#june-2022-2) | [May](#may-2022-2) | [April](#april-2022-2) | [March](#march-2022-7) | [Feb](#feb-2022-2) | [Jan](#jan-2022-2)
 
 Previous Years: [2021](#2021-22) | [2020](#2020-32) | [2019](#2019-34) | [2018](#2018-41)
 
-## 2022
+## 2022 (33)
 
-### Dec 2022
+### Dec 2022 (4)
+* **Slow Horses** 2 ![][UK] ![][APL] ![][Pjt] ![][s45]
+* **Road Back Home**《回来的女儿》![][CN] ![][IQY] ![][Pjt] ![][s35]
+* **One Strange Rock** (2018) ![][US] ![][NGG] ![][YKU] ![][s4]
 * **The Peripheral** ![][US] ![][AMZ] ![][Pjt] ![][s4]
 
 ### Nov 2022 (1)
