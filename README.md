@@ -7,6 +7,7 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 ![][Pjt] - seen via a projector.
 
 ## Watching List
+* **Yao-Chinese Folktales**《中国奇谭》![][CN] ![][BLI]
 * **The Last of Us** ![][US] ![][HBO]
 * **Three-Body**《三体》![][CN] ![][TCV]
 * **Folk 2022**《我们民谣2022》![][CN] ![][IQY]
