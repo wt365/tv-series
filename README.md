@@ -7,8 +7,7 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 ![][Pjt] - seen via a projector.
 
 ## Watching List
-* **The Last of Us** ![][US] ![][HBO]
-* **San Ti**《三体》(2022) ![][CN] ![][BLI]
+*None.*
 
 ## TV Series I have seen
 
@@ -21,6 +20,7 @@ Previous Years: [2022](#2022-33) | [2021](#2021-22) | [2020](#2020-32) | [2019](
 ## 2023
 
 ### March 2023
+* **San Ti**《三体》(2022) ![][CN] ![][BLI] ![][s15]
 * **The Last of Us** ![][US] ![][HBO] ![][s45]
 
 ### Feb 2023 (4)
