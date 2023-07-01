@@ -13,11 +13,16 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 
 ### Index
 
-2023: [May](#may-2023-6) | [April](#april-2023-2) | [March](#march-2023-2) | [Feb](#feb-2023-4) | [Jan](#jan-2023-1)
+2023: [June](#june-2023-3) | [May](#may-2023-6) | [April](#april-2023-2) | [March](#march-2023-2) | [Feb](#feb-2023-4) | [Jan](#jan-2023-1)
 
 Previous Years: [2022](#2022-33) | [2021](#2021-22) | [2020](#2020-32) | [2019](#2019-34) | [2018](#2018-41)
 
 ## 2023
+
+### June 2023 (3)
+* **Brave New World** (2020) ![][US] ![][PCK] ![][s4]
+* **Black Mirror** 6 ![][US] ![][NFX] ![][s35]
+* **The Pharmacist** (2020) ![][US] ![][NFX] ![][s4]
 
 ### May 2023 (6)
 * **Chasing the Tide**《出海》![][CN] ![][TCV] ![][s4]
@@ -362,6 +367,7 @@ Previous Years: [2022](#2022-33) | [2021](#2021-22) | [2020](#2020-32) | [2019](
 [NFX]: https://wt365.github.io/lib/svg/tv/netflix.svg "Netflix"
 [NGG]: https://wt365.github.io/lib/svg/tv/natgeo.svg "National Geographic"
 [PBS]: https://wt365.github.io/lib/svg/tv/pbs.svg "PBS"
+[PCK]: https://wt365.github.io/lib/svg/tv/peacock.svg "Peacock"
 [PMT]: https://wt365.github.io/lib/svg/tv/paramount.svg "Paramount+"
 [SCK]: https://wt365.github.io/lib/svg/tv/crackle.svg "Sony Crackle"
 [SFY]: https://wt365.github.io/lib/svg/tv/syfy.svg "SYFY"
