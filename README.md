@@ -8,18 +8,20 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 
 ## Watching List
 * **The Wire** (2002) ![][US] ![][HBO]
-* **Hijack** ![][UK] ![][APL]
 * **Foundation** 2 ![][US] ![][APL]
 
 ## TV Series I have seen
 
 ### Index
 
-2023: [July](#july-2023-1) | [June](#june-2023-3) | [May](#may-2023-6) | [April](#april-2023-2) | [March](#march-2023-2) | [Feb](#feb-2023-4) | [Jan](#jan-2023-1)
+2023: [Aug](#aug-2023) | [July](#july-2023-1) | [June](#june-2023-3) | [May](#may-2023-6) | [April](#april-2023-2) | [March](#march-2023-2) | [Feb](#feb-2023-4) | [Jan](#jan-2023-1)
 
 Previous Years: [2022](#2022-33) | [2021](#2021-22) | [2020](#2020-32) | [2019](#2019-34) | [2018](#2018-41)
 
 ## 2023
+
+### Aug 2023
+* **Hijack** ![][UK] ![][APL] ![][s4]
 
 ### July 2023 (1)
 * **Secret Invasion** ![][US] ![][DSN] ![][s25]
