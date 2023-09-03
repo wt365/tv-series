@@ -7,7 +7,8 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 ![][Pjt] - seen via a projector.
 
 ## Watching List
-* **The Wire** (2002) ![][US] ![][HBO]
+* **Billions** ![][US] ![][SHO]
+* **Special Ops: Lioness** ![][US] ![][PMT]
 * **Foundation** 2 ![][US] ![][APL]
 
 ## TV Series I have seen
@@ -21,6 +22,8 @@ Previous Years: [2022](#2022-33) | [2021](#2021-22) | [2020](#2020-32) | [2019](
 ## 2023
 
 ### Aug 2023
+* **Fearless Blood**《欢颜》![][CN] ![][TCV] ![][s4]
+* **The Wire** (2002) ![][US] ![][HBO] ![][s45]
 * **Hijack** ![][UK] ![][APL] ![][s4]
 
 ### July 2023 (1)
