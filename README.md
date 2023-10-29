@@ -7,21 +7,30 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 ![][Pjt] - seen via a projector.
 
 ## Watching List
-* **Billions** ![][US] ![][SHO]
-* **Special Ops: Lioness** ![][US] ![][PMT]
-* **Foundation** 2 ![][US] ![][APL]
+*None.*
 
 ## TV Series I have seen
 
 ### Index
 
-2023: [Aug](#aug-2023) | [July](#july-2023-1) | [June](#june-2023-3) | [May](#may-2023-6) | [April](#april-2023-2) | [March](#march-2023-2) | [Feb](#feb-2023-4) | [Jan](#jan-2023-1)
+2023: [Oct](#oct-2023-4) | [Sept](#sept-2023-3) | [Aug](#aug-2023-3) | [July](#july-2023-1) | [June](#june-2023-3) | [May](#may-2023-6) | [April](#april-2023-2) | [March](#march-2023-2) | [Feb](#feb-2023-4) | [Jan](#jan-2023-1)
 
 Previous Years: [2022](#2022-33) | [2021](#2021-22) | [2020](#2020-32) | [2019](#2019-34) | [2018](#2018-41)
 
 ## 2023
 
-### Aug 2023
+### Oct 2023 (4)
+* **Billions** 7 ![][US] ![][SHO] ![][s45]
+* **The Wire** 5 (2003) ![][US] ![][HBO] ![][s5]
+* **The Wire** 4 (2003) ![][US] ![][HBO] ![][s5]
+* **The Wire** 3 (2003) ![][US] ![][HBO] ![][s45]
+
+### Sept 2023 (3)
+* **The Wire** 2 (2003) ![][US] ![][HBO] ![][s45]
+* **Foundation** 2 ![][US] ![][APL] ![][s3]
+* **Special Ops: Lioness** ![][US] ![][PMT] ![][s4]
+
+### Aug 2023 (3)
 * **Fearless Blood**《欢颜》![][CN] ![][TCV] ![][s4]
 * **The Wire** (2002) ![][US] ![][HBO] ![][s45]
 * **Hijack** ![][UK] ![][APL] ![][s4]
