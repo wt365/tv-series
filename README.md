@@ -7,7 +7,8 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 ![][Pjt] - seen via a projector.
 
 ## Watching List
-*None.*
+* **Pantheon** 2 ![][US] ![][AMC]
+* **For All Mankind** 4 ![][US] ![][APL]
 
 ## TV Series I have seen
 
@@ -21,9 +22,9 @@ Previous Years: [2022](#2022-33) | [2021](#2021-22) | [2020](#2020-32) | [2019](
 
 ### Oct 2023 (4)
 * **Billions** 7 ![][US] ![][SHO] ![][s45]
-* **The Wire** 5 (2003) ![][US] ![][HBO] ![][s5]
-* **The Wire** 4 (2003) ![][US] ![][HBO] ![][s5]
-* **The Wire** 3 (2003) ![][US] ![][HBO] ![][s45]
+* **The Wire** 5 (2008) ![][US] ![][HBO] ![][s5]
+* **The Wire** 4 (2006) ![][US] ![][HBO] ![][s5]
+* **The Wire** 3 (2004) ![][US] ![][HBO] ![][s45]
 
 ### Sept 2023 (3)
 * **The Wire** 2 (2003) ![][US] ![][HBO] ![][s45]
