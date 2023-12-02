@@ -7,18 +7,22 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 ![][Pjt] - seen via a projector.
 
 ## Watching List
-* **Pantheon** 2 ![][US] ![][AMC]
+* **Slow Horses** 3 ![][UK] ![][APL]
 * **For All Mankind** 4 ![][US] ![][APL]
 
 ## TV Series I have seen
 
 ### Index
 
-2023: [Oct](#oct-2023-4) | [Sept](#sept-2023-3) | [Aug](#aug-2023-3) | [July](#july-2023-1) | [June](#june-2023-3) | [May](#may-2023-6) | [April](#april-2023-2) | [March](#march-2023-2) | [Feb](#feb-2023-4) | [Jan](#jan-2023-1)
+2023: [Nov](#nov-2023-2) | [Oct](#oct-2023-4) | [Sept](#sept-2023-3) | [Aug](#aug-2023-3) | [July](#july-2023-1) | [June](#june-2023-3) | [May](#may-2023-6) | [April](#april-2023-2) | [March](#march-2023-2) | [Feb](#feb-2023-4) | [Jan](#jan-2023-1)
 
 Previous Years: [2022](#2022-33) | [2021](#2021-22) | [2020](#2020-32) | [2019](#2019-34) | [2018](#2018-41)
 
 ## 2023
+
+### Nov 2023 (2)
+* **Scavengers Reign** ![][US] ![][HBO] ![][s45]
+* **Pantheon** 2 ![][US] ![][AMC] ![][s4]
 
 ### Oct 2023 (4)
 * **Billions** 7 ![][US] ![][SHO] ![][s45]
