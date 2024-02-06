@@ -19,6 +19,10 @@ Previous Years: 2023: [2023](#2023-32) | [2022](#2022-33) | [2021](#2021-22) | [
 
 ## 2024
 
+### Feb 2024
+* **Long Time No Sex**《LTNS》![][KR] ![][TVG] ![][s4]
+* **Mr. & Mrs. Smith** ![][US] ![][UK] ![][AMZ] ![][s2]
+
 ### Jan 2024 (3)
 * **Frozen Surface**《黑土无言》![][CN] ![][TCV] ![][s3]
 * **For All Mankind** 4 (2023) ![][US] ![][APL] ![][s45]
@@ -407,8 +411,9 @@ Previous Years: 2023: [2023](#2023-32) | [2022](#2022-33) | [2021](#2021-22) | [
 [SHO]: https://wt365.github.io/lib/svg/tv/sho.svg "Showtime"
 [STZ]: https://wt365.github.io/lib/svg/tv/starz.svg "STARZ"
 [TBS]: https://wt365.github.io/lib/svg/tv/tbs.svg "TBS"
-[TNT]: https://wt365.github.io/lib/svg/tv/tnt.svg "TNT"
 [TCV]: https://wt365.github.io/lib/svg/tv/tencent.svg "Tencent Video"
+[TNT]: https://wt365.github.io/lib/svg/tv/tnt.svg "TNT"
+[TVG]: https://wt365.github.io/lib/svg/tv/tving.svg "TVING"
 [USA]: https://wt365.github.io/lib/svg/tv/usa.svg "USA Network"
 [XBX]: https://wt365.github.io/lib/svg/tv/xbox.svg "XBOX"
 [YKU]: https://wt365.github.io/lib/svg/tv/youku.svg "Youku"
