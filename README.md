@@ -7,19 +7,20 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 ![][Pjt] - seen via a projector.
 
 ## Watching List
+* **Hunt for Ice**《猎冰》![][CN] ![][TCV]
 * **Masters of the Air** ![][US] ![][APL]
 
 ## TV Series I have seen
 
 ### Index
 
-2024: [Feb](#feb-2024) | [Jan](#jan-2024-3)
+2024: [Feb](#feb-2024-2) | [Jan](#jan-2024-3)
 
 Previous Years: 2023: [2023](#2023-32) | [2022](#2022-33) | [2021](#2021-22) | [2020](#2020-32) | [2019](#2019-34) | [2018](#2018-41)
 
 ## 2024
 
-### Feb 2024
+### Feb 2024 (2)
 * **Long Time No Sex**《LTNS》![][KR] ![][TVG] ![][s4]
 * **Mr. & Mrs. Smith** ![][US] ![][UK] ![][AMZ] ![][s2]
 
