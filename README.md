@@ -9,7 +9,6 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 ## Watching List
 
 * **Speeding Life**《飞驰人生热爱篇》![][CN] ![][YKU]
-* **Masters of the Air** ![][US] ![][APL]
 
 ## TV Series I have seen
 
@@ -22,6 +21,7 @@ Previous Years: [2023](#2023-32) | [2022](#2022-33) | [2021](#2021-22) | [2020](
 ## 2024
 
 ### March 2024
+* **Masters of the Air** ![][US] ![][APL] ![][s45]
 * **Detective Chinatown** 2《唐人街探案2》![][CN] ![][IQY] ![][s3]
 * **Detective Chinatown**《唐人街探案》(2020) ![][CN] ![][IQY] ![][s35]
 * **Hunt for Ice**《猎冰》![][CN] ![][TCV] ![][s2]
