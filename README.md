@@ -8,6 +8,7 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 
 ## Watching List
 
+* **War of Faith**《追风者》![][CN] ![][IQY]
 * **In the Name of the Brother**《哈尔滨一九四四》![][CN] ![][IQY]
 
 ## TV Series I have seen
