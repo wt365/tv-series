@@ -8,7 +8,7 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 
 ## Watching List
 
-*None.*
+* **Kimetsu no Yaiba** 4《鬼滅の刃 柱稽古編》![][JP] ![][TCV]
 
 ## TV Series I have seen
 
