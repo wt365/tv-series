@@ -8,17 +8,20 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 
 ## Watching List
 
-* **Kimetsu no Yaiba** 4《鬼滅の刃 柱稽古編》![][JP] ![][TCV]
+*None.*
 
 ## TV Series I have seen
 
 ### Index
 
-2024: [May](#may-2024-4) | [April](#april-2024-1) | [March](#march-2024-6) | [Feb](#feb-2024-2) | [Jan](#jan-2024-3)
+2024: [July](#july-2024) | [May](#may-2024-4) | [April](#april-2024-1) | [March](#march-2024-6) | [Feb](#feb-2024-2) | [Jan](#jan-2024-3)
 
 Previous Years: [2023](#2023-32) | [2022](#2022-33) | [2021](#2021-22) | [2020](#2020-32) | [2019](#2019-34) | [2018](#2018-41)
 
 ## 2024
+
+### July 2024
+* **Kimetsu no Yaiba** 4《鬼滅の刃 柱稽古編》![][JP] ![][TCV] ![][s45]
 
 ### May 2024 (4)
 * **Tell No One**《不可告人》![][CN] ![][IQY] ![][s35]
