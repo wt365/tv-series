@@ -8,7 +8,7 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 
 ## Watching List
 
-*None.*
+* **The King of Stand-up Comedy**《喜剧之王单口季》![][CN] ![][IQY]
 
 ## TV Series I have seen
 
