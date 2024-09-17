@@ -8,6 +8,7 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 
 ## Watching List
 
+* **You Are Part of the Show**《脱口秀和Ta的朋友们》![][CN] ![][TCV]
 * **The King of Stand-up Comedy**《喜剧之王单口季》![][CN] ![][IQY]
 
 ## TV Series I have seen
