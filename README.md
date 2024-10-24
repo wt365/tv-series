@@ -9,19 +9,21 @@ TV series that I am [watching](#watching-list) and that I have [seen](#tv-series
 ## Watching List
 
 * **You Are Part of the Show**《脱口秀和Ta的朋友们》![][CN] ![][TCV]
-* **The King of Stand-up Comedy**《喜剧之王单口季》![][CN] ![][IQY]
 
 ## TV Series I have seen
 
 ### Index
 
-2024: [July](#july-2024) | [May](#may-2024-4) | [April](#april-2024-1) | [March](#march-2024-6) | [Feb](#feb-2024-2) | [Jan](#jan-2024-3)
+2024: [Oct](#oct-2024) | [July](#july-2024-1) | [May](#may-2024-4) | [April](#april-2024-1) | [March](#march-2024-6) | [Feb](#feb-2024-2) | [Jan](#jan-2024-3)
 
 Previous Years: [2023](#2023-32) | [2022](#2022-33) | [2021](#2021-22) | [2020](#2020-32) | [2019](#2019-34) | [2018](#2018-41)
 
 ## 2024
 
-### July 2024
+### Oct 2024
+* **The King of Stand-up Comedy**《喜剧之王单口季》![][CN] ![][IQY] ![][s4]
+
+### July 2024 (1)
 * **Kimetsu no Yaiba** 4《鬼滅の刃 柱稽古編》![][JP] ![][TCV] ![][s45]
 
 ### May 2024 (4)
